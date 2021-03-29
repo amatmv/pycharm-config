@@ -1,0 +1,22 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="Tree-selectChild">
+      <i c="1" l="1616967968451" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="15" l="1616967968940" />
+    </e>
+    <e n="Tree-selectNextExtendSelection">
+      <i c="1" l="1616967969864" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="10" l="1616967969265" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1616967962703" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="2" l="1616969865544" />
+    </e>
+  </component>
+</application>
