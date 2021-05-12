@@ -1,4 +1,28 @@
 <application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPackageRequirementsInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/bin/node" />
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="JetBrains Mono" />
+  </component>
   <component name="ProjectPluginTrackerManager">
     <option name="trackers">
       <map>
@@ -11,6 +35,38 @@
     </option>
   </component>
   <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="1" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExternalToolDialog.advanced.expanded" value="true" />
+    <property name="FindSplitterProportion" value="0.32980832" />
+    <property name="KEYMAP" value="isort&#10;external tools" />
+    <property name="MarketplacePluginsSearchHistory" value="makefile" />
     <property name="NonModalCommitCustomization.IsApplied" value="true" />
     <property name="PyCharm.InitialConfiguration" value="true" />
     <property name="PyCharm.InitialConfiguration.V2" value="true" />
@@ -19,20 +75,50 @@
     <property name="PyCharm.InitialConfiguration.V5" value="true" />
     <property name="PyCharm.InitialConfiguration.V6" value="true" />
     <property name="PyCharm.InitialConfiguration.V7" value="true" />
-    <property name="appcds.runOnSecondStart" value="PY-203.7717.81-142aa493ec0bee29efea5a3419adbcbc1cbd1441b5e002010d50dfd10a60bed6" />
-    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="SHELLCHECK.PATH" value="$APPLICATION_PLUGINS_DIR$/Shell Script/shellcheck" />
+    <property name="SettingsSearchHistory" value="python console&#10;external tools&#10;wrap&#10;d&#10;interpreter" />
+    <property name="UITheme.relaunch" value="true" />
+    <property name="Vcs.Log.Text.Filter.History" value="minificac" />
+    <property name="appcds.runOnSecondStart" value="PY-203.7717.81-67d178bd9ce9d57fdd7b88d32270a0b2e5866981f3c51cc08d648f5aedc8d296" />
+    <property name="bidi.content.notification.disable" value="true" />
+    <property name="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1.splitter" value="0.54235727" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="debugger.smart.chooser.counter" value="3" />
     <property name="evlsprt3.203" value="15" />
     <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/src/kavehome-pt" />
-    <property name="file.gist.reindex.count" value="1236" />
-    <property name="fileTypeChangedCounter" value="1" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/src/kavehome-base/config/requirements.txt&#10;/home/amat/src/kavehome-pt&#10;/home/amat/src/kavehome-pt/Makefile&#10;/home/amat/src/kavehome-pt/docker-compose.tests.yml&#10;/home/amat/src/nilo_mw&#10;/home/amat/src/kavehome-pt/microservices/nilo_ms_shipping_rates&#10;/home/amat/.virtualenvs/kh_venv/bin/isort&#10;/home/amat/src/kavehome-pt/app&#10;/home/amat/src/kavehome-pt/app/kavehome_pt/settings.py&#10;/home/amat/src/kavehome-pt/app/manage.py&#10;/home/amat/src/kavehome-pt/docker-compose.yml" />
+    <property name="file.gist.reindex.count" value="26214" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
     <property name="ide.memory.adjusted" value="true" />
     <property name="ide.updates.previous.build.number" value="PY-203.7717.81" />
     <property name="lastSeenTip" value="neue-Welcome.html" />
     <property name="lastTimeTipsWereShown" value="1616967984489" />
-    <property name="last_opened_file_path" value="$USER_HOME$/src/kavehome-pt" />
+    <property name="last_opened_file_path" value="$USER_HOME$/src/nilo_mw" />
     <property name="seenTips" value="neue-Welcome.html" />
+    <property name="settings.code.style.selected.tab.Python" value="Wrapping and Braces" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
     <property name="ts.lib.d.ts.version" value="4.1.3" />
+    <property name="vcs.log.details.splitter.proportion" value="0.8464419" />
+  </component>
+  <component name="PyCodeInsightSettings">
+    <option name="RENAME_PARAMETERS_IN_HIERARCHY" value="false" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="docker-compose://[/home/amat/src/kavehome-pt/docker-compose.yml]:web/python" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="docker-compose://[/home/amat/src/kavehome-pt/docker-compose.yml]:web/python" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="docker-compose://[/home/amat/src/kavehome-pt/docker-compose.yml]:web/python" value="false" />
+      </map>
+    </option>
   </component>
 </application>

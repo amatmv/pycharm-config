@@ -1,0 +1,840 @@
+man sudo_root
+snap
+sudo apt install snapd
+sudo apt update && sudo apt install snapd
+sudo ntfsfix /dev/sdb1 
+sudo fdisk -l
+sudo ntfsfix /dev/sda 
+sudo ntfsfix /dev/sda1
+sudo ntfsfix /dev/sda
+chkdisk /dev/sda
+chkdsk /dev/sda
+snap
+sudo apt install snapd
+sudo rm /etc/apt/preferences.d/nosnap.pref
+sudo apt update
+sudo apt install snapd
+snap install pycharm-professional --classic
+sudo apt install vim git docker docker-compose 
+mkdir src
+cd src/
+git clone git@bitbucket.org:i2tic/kavehome-pt.git
+ssh-keygen -t rsa -b 4096
+nautilus
+cd src/
+ll
+git status
+cat ~/.ssh/id_rsa.pub 
+git clone git@bitbucket.org:i2tic/kavehome-pt.git
+git clone git@bitbucket.org:i2tic/kavehome-base.git
+docker
+nautilus
+thunar
+sudo apt install nautilus 
+cd /tmp
+git clone https://github.com/vinceliuice/Tela-circle-icon-theme.git
+cd Te
+cd Tela-circle-icon-theme/
+ll
+./install.sh 
+cd ..
+git clone https://github.com/vinceliuice/Orchis-theme.git
+cd Orchis-theme/
+l
+./install.sh 
+sudo apt install sensors
+sudo apt install sensor
+sudo apt-cache search sensors
+sudo apt install xsensors
+sensors
+snap install telegram
+snap install telegram.desktop
+sudo snap install telegram-desktop
+cd src/kavehome-
+cd src/kavehome-pt/
+ll
+cd /tmp
+git clone https://github.com/grwlf/xkb-switch.git
+cd xkb-switch/
+ll
+mkdir build 
+cd build/
+cmake ..
+sudo apt install cmake g++ libxkbfile-dev
+sudo apt install libxkbfile
+cmake ..
+make
+sudo make install
+sudo ldconfig
+xkb-switch -p
+xkb-switch -n
+cd /tmp/mozilla_amat0/
+ll
+bash displaylink-driver-5.3.1.34.run 
+sudo \bash displaylink-driver-5.3.1.34.run 
+sudo bash displaylink-driver-5.3.1.34.run 
+sudo apt-get update
+sudo apt-get install -y apt-transport-https ca-certificates curl
+sudo curl -fsSLo /usr/share/keyrings/kubernetes-archive-keyring.gpg https://packages.cloud.google.com/apt/doc/apt-key.gpg
+echo "deb [signed-by=/usr/share/keyrings/kubernetes-archive-keyring.gpg] https://apt.kubernetes.io/ kubernetes-xenial main" | sudo tee /etc/apt/sources.list.d/kubernetes.list
+sudo apt-get update && sudo apt-get install -y kubectl
+vim
+vim ~/.bashrc
+cd Downloads/
+ll
+unzip
+unzipi kube.zip 
+unzip kube.zip 
+ll
+mv .kube ~
+ll
+rm kube.zip 
+mkdir ~/.certificates
+mv kavehome_ecommerce.pem ~/.certificates/
+cd 
+ll
+cd .kube/
+ll
+KUBECONFIG=kavehome-pro-config kubectl get namespaces
+gcloud init
+/usr/lib/google-cloud-sdk/bin/gcloud
+getconf LONG_BIT
+ll
+tldr
+sudo apt install tldr
+tldr tar
+tar xf google-cloud-sdk-333.0.0-linux-x86_64.tar.gz
+ll
+rm google-cloud-sdk-333.0.0-linux-x86_64.tar.gz 
+cd google-cloud-sdk/
+ll
+bash install.sh 
+gcloud
+vim ~/.bashrc
+/home/amat/.local/share/google-cloud-sdk/path.bash.inc
+ll /home/amat/.local/share/google-cloud-sdk/path.bash.inc
+vim ~/.bashrc
+. /home/amat/.local/share/google-cloud-sdk/path.bash.inc
+gcloud
+vim ~/.bashrc
+vim ~/.bashrc
+gcloud 
+ll
+echo $PATH
+ll ~
+mv google-cloud-sdk/ ~/.local/share/
+ll ~/.local/share/
+cd ~/.local/share/google-cloud-sdk/
+l
+ll
+tldr ln
+ln bin/gcloud ../gcloud
+gcloud
+~/.local/share/gcloud 
+cd bin/
+ll
+./gcloud 
+ll ../../
+bash ../../gcloud 
+./../../gcloud 
+rm ../../gcloud 
+ll
+vim ~/.bashrc
+/home/amat/.kube/google-cloud-sdk/path.bash.inc
+subl
+snap install sublime-text 
+snap install sublime-text  --classic
+gcloud
+gcloud init
+KUBECONFIG=kavehome-pro-config kubectl get namespaces
+KUBECONFIG=/home/amat/.kube/kavehome-pro-config kubectl get namespaces
+cd ../../
+ll
+sudo mv google-cloud-sdk/ /usr/lib/
+/usr/lib/google-cloud-sdk/bin/gcloud
+vim ~/.bashrc
+/usr/lib/google-cloud-sdk/install.
+sudo bash /usr/lib/google-cloud-sdk/install.sh 
+vim /home/amat/.bashrc
+#ssh -i ~/.certificates/kavehome_ecommerce.pem ubuntu@
+kubepro get deployments 
+kubepro edit deployments front-pro-1.11.0
+ssh -i ~/.certificates/kavehome_ecommerce.pem ubuntu@ec2-34-243-227-7.eu-west-1.compute.amazonaws.com
+chmod 664 /home/amat/.certificates/kavehome_ecommerce.pem
+ssh -i ~/.certificates/kavehome_ecommerce.pem ubuntu@ec2-34-243-227-7.eu-west-1.compute.amazonaws.com
+chmod 600 /home/amat/.certificates/kavehome_ecommerce.pem
+ssh -i ~/.certificates/kavehome_ecommerce.pem ubuntu@ec2-34-243-227-7.eu-west-1.compute.amazonaws.com
+KUBECONFIG=/home/amat/.kube/kavehome-pro-config kubectl get namespaces
+KUBECONFIG=/home/amat/.kube/kavehome-pro-config kubectl -n nilo-kh-pro get pods 
+vim ~/.bashrc
+ll ~/.kube
+KUBECONFIG=/home/amat/.kube/kavehome-pre-config kubectl get ns
+vim ~/.bashrc
+ll ~/.kube
+KUBECONFIG=/home/amat/.kube/kavehome-franchises-pre kubectl get ns
+vim ~/.bashrc
+kubepregr get pods
+kubepro get deployments
+kubepregr get pods
+kubepregr get deployments
+kubepregr edit deployment web-front-gr-pre-franchises-1.11.0 
+kubepregr get secrets
+kubepregr edit secrets mailchimp
+cd src/kavehome-pt/
+ll
+cp env.sample .env
+mv ~/Downloads/env.bak .
+mv ~/Downloads/nilo-credentials-dev.json .
+ll
+rm nilo-credentials-dev.json 
+rm .env
+mv env.bak .env
+ll
+mkdir microservices
+cd microservices/
+git clone git@bitbucket.org:i2tic/nilo_ms_shipping_rates.git
+cd ..
+git clone git@bitbucket.org:i2tic/nilo_mw.git
+git clone git@bitbucket.org:kavehome/ms-kavehome-global.git
+git clone git@bitbucket.org:kavehome/kavehome-weblate.git
+ll
+cd microservices/
+ll
+cd nilo_ms_shipping_rates/
+ll
+cp env.sample .env
+cd ../../
+cd ..
+cd kavehome-base/
+ll
+docker build . -t kavehome-base:latest -f Dockerfile.dev
+sudo apt-get install     apt-transport-https     ca-certificates     curl     gnupg     lsb-release
+echo   "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
+  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+sudo apt-get update && sudo apt-get install docker-ce docker-ce-cli containerd.io
+sudo usermod -aG docker amat
+docker build . -t kavehome-base:latest -f Dockerfile.dev
+docker
+sudo apt-get install docker-ce docker-ce-cli containerd.io
+sudo apt-get update
+echo   "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu \
+  $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+sudo apt-get update
+lsb_release -a 
+echo "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable" | sudo tee /etc/apt/sources.list.d/docker.list
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+sudo apt update && sudo apt install docker-ce docker-ce-cli containerd.io pigz
+sudo usermod -aG docker $USER
+sudo curl -L "https://github.com/docker/compose/releases/download/1.26.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
+docker build . -t kavehome-base:latest -f Dockerfile.dev
+sudo usermod -aG docker $USER
+docker build . -t kavehome-base:latest -f Dockerfile.dev
+logout
+cd src/kavehome-base/
+ll
+docker build . -t kavehome-base:latest -f Dockerfile.dev
+cd ../kavehome-pt/
+ll
+mv kavehome-weblate/ ..
+mv ms-kavehome-global/ ..
+mv nilo_mw/ ..
+cd 
+ll
+find . -iname "*pycharm*"
+ll ./.config/JetBrains/PyCharm2020.3
+cd ./.config/JetBrains/PyCharm2020.3
+git init
+git remote add origin https://github.com/amatmv/pycharm-config.git
+git push -u origin main
+git add -A 
+giit commit -m "initial commit"
+git commit -m "initial commit"
+git config --global user.email "amartinez@kavehome.com"
+git config --global user.name "Amat"
+git commit -m "initial commit"
+git branch -M maini
+git branch -M main
+git remote add origin https://github.com/amatmv/pycharm-config.git
+git push -u origin main
+vim ~/.ssh/id_rsa.pub 
+git push -u origin main
+git remote add origin git@github.com:amatmv/pycharm-config.git
+git remote rename origin git@github.com:amatmv/pycharm-config.git
+git remote set-url origin git@github.com:amatmv/pycharm-config.git
+git push -u origin main
+mkdir ~/scripts
+#git add -A && git commit -m "
+cal
+date
+type date
+type crontab
+date '+%Y%m%d'
+git add -A && git commit -m "Changes `date '+%Y%m%d'`" && git push origin main
+git add -A
+git commit -m "Changes `date '+%Y%m%d'`"
+vim ~/scripts/commit_pycharm_config.sh
+cd /home/amat/.config/JetBrains/PyCharm2020.3
+vim ~/scripts/commit_pycharm_config.sh
+bash ~/scripts/commit_pycharm_config.sh
+crontab -e 
+chmod +x ~/scripts/commit_pycharm_config.sh
+kubepregr edit secrets mailchimp
+ll ~/.kube
+vim ~/.bashrc
+sudo apt-get install terminator
+mkdir ~/.virtualenvs
+cd ~/.virtualenvs/
+virtualenv -p python3[.6] venv
+sudo apt install python3-virtualenv python3-pip
+virtualenv -p python3[.6] venv
+python -v 
+python3v 
+python3 
+sudo add-apt-repository ppa:deadsnakes/ppa
+sudo apt-get update && sudo apt-get install python3.6
+update-alternatives
+tldr update-alternatives
+#sudo update-alternatives --install 
+which python
+pythonn
+python
+which python3
+ll /usr/bin | grep python
+sudo update-alternatives --install /usr/bin/python python python3.6 2
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.6 2
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.8 2
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.6 2
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.8 1
+virtualenv -p python3[.6] venv
+virtualenv  venv
+ll
+rm venv -rf
+virtualenv kh_venv
+. kh_venv/bin/activate
+vim ~/.bashrc
+deactivate
+source /home/amat/.virtualenvs/kh_venv/bin/activate
+kubeprogr get ns
+kubeprogr -n gr get secrets
+kubeprogr -n gr edit secrets  mailchimp
+kuebpro edit secrets  mailchimp
+kubepro edit secrets  mailchimp
+kubepro get secrets
+kubepre get secrets 
+kubepre edit secrets mailchimp
+kubepregr edit secrets mailchimp
+kubepro -n gr edit secrets mailchimp
+kubeprogr -n gr edit secrets mailchimp
+kubeprogr -n gr get deployments
+kubeprogr -n gr edit deployments web-front-pro-gr-2021021602
+kubepregr get deployments
+kubepregr edit deployments web-front-gr-pre-franchises-1.11.0
+kubeprogr -n gr edit deployments web-front-pro-gr-2021021602
+kubeprogr -n gr get secrets
+htop
+sudo apt install htop
+git clone https://github.com/arialdomartini/oh-my-git.git ~/.oh-my-git && echo source ~/.oh-my-git/prompt.sh >> ~/.bashrc
+cd /tmp
+git clone http://github.com/gabrielelana/awesome-terminal-fonts
+cd awesome-terminal-fonts
+git checkout patching-strategy
+mkdir -p ~/.fonts
+cp patched/*.ttf ~/.fonts
+sudo fc-cache -fv ~/.fonts
+ll ~/.fonts
+nautilus ~/.fonts
+sudo fc-cache -fv ~/.fonts
+lsb_release -a 
+terminator
+htop
+cd src/kavehome-b
+cd src/kavehome-base/
+docker build . -t kavehome-base:latest -f Dockerfile.dev
+cd ../kavehome-pt/
+make build
+make serve c=db
+make importdb
+make dbconnect
+docker-compose exec db mysql -u root -p123qwe -c mysql
+make dbconnect
+make importdb
+htop
+kubepregr
+kubepregr get secrets
+kubepregr edit secrets mailchimp
+kubepregr edit secrets mailchimp | cat
+kubepregr edit secrets mailchimp > variables
+cd src/kavehome-pt/
+make start c=web
+make stop c=web
+make dbconnect
+make start c=web
+make dbconnect
+make stop c=web
+make start c=web
+make dbconnect
+vim .env 
+./Postman/Postman 
+./Postman/Postman  &
+ll ~/Postman/
+ll ~/Postman/app/
+mv ~/Postman/Postman ~/.local/share/
+ll /.local/share/Postman
+ll ~/Postman/
+ll ~/.local/share/
+rm ~/.local/share/Postman 
+tldr ln 
+ln -s ~/Postman/app/Postman ~/.local/share/Postman
+Postman
+~/.local/share/Postman
+~/.local/share/Postman &
+ps aux | grep Postman
+Postman
+vim ~/.bashrc
+ll ~/.local/
+ll ~/.local/share/
+ll ~/./*
+ll ~/.*
+ll ~/\.*
+ll ~/\.
+ll ~/\.*
+ll ~
+echo $PATH
+#ln -s ~/Postman/app/Postman ~/.local#/share/Postman
+rm ~/.local/share/Postman
+ln -s ~/Postman/app/Postman /usr/local/bin/Postman
+sudo ln -s ~/Postman/app/Postman /usr/local/bin/Postman
+/usr/local/bin/Postman
+kubepro get pods 
+kubepro exec -ti front-pro-1.11.0-54c449c9df-ldss9 -- bash 
+vim ~/.bashrc 
+vim
+vim ~/.bashrc
+postman
+Postman &
+ssh -i ~/.certificates/kavehome_ecommerce.pem ubuntu@ec2-34-243-227-7.eu-west-1.compute.amazonaws.com
+kubepro get pods 
+kubepro exec -ti front-pro-1.12.1-76779c8c69-q5zkf -- bash 
+kubepre get pods 
+kubepre get deployments
+kubepre get deployments front-2021032905 -o yaml | less
+kubepro get deployments
+kubepro get deployments front-pro-1.12.1 -o yaml | less
+kubepre get pods 
+kubepre exec -ti front-2021032905-589c5877f9-slst4 -- bash
+kubepre cp front-2021032905-589c5877f9-slst4:t .
+kubepre cp front-2021032905-589c5877f9-slst4:t t
+less t
+cat t | grep ONEY | less
+cat t | grep ONEY 
+rm t
+kubepre exec -ti front-2021032905-589c5877f9-slst4 -- bash
+kubeprefran
+vim ~/.bashrc
+kubepreau
+reset
+kubepreau
+cd
+ll
+ll Postman/
+./Postman/Postman 
+cd src/kavehome-pt/
+pip install -r ../kavehome-base/config/requirements.txt 
+python -v 
+pip install -r ../kavehome-base/config/requirements.txt 
+sudo apt-get install mysql
+sudo apt-get install mysql-8.0 mysql-client 
+sudo apt-get install mysql-client 
+make manage/shell
+make makemigrations
+make makemigration
+make makemigrations
+make manage/makemigrations
+make manage/shell
+pip install isort
+git add -p
+y
+git status
+vim variables 
+rm variables
+git add app/nilo/payment/migrations/0020_auto_20210329_1445.py app/nilo/payment/migrations/0019_auto_20210329_1421.py 
+git status
+git fetch --prune 
+git checkout KHO-1561-multilanguage-bank-transfer-inf
+git status
+git commit -m "ADD field description computed from days and bank info" 
+git status
+git push origin KHO-1561-multilanguage-bank-transfer-inf 
+git checkout mix/20210301 
+git pull
+git status
+git diff
+git stash 
+git checkout mix/20210301 
+git status
+git pull
+docker-compose ps 
+docker-compose exec -ti celery
+docker-compose exec -ti celery bash
+docker-compose exec celery bash
+make makemessages
+git status
+git add -p
+a
+git status
+git add app/kh_promotions/migrations/0006_merge_20210330_0720.py
+git commit -m "Translations" 
+git push origin mix/20210301 
+git checkout '
+git checkout -
+git status
+git diff
+git checkout -p
+git fetch && git checkout KHO-1634-mailchimp-parámetro-data-center
+git status
+git stash pop
+git add -p
+git status
+git checkout mix/franquicias-2020113001 
+git status
+giit fetch --prune 
+git merge origin/master
+git commit
+git push origin mix/franquicias-2020113001 
+git checkout -
+git status
+htop
+make ps 
+cd microservices/nilo_ms_shipping_rates/
+ll
+make ps 
+docker-compose ps 
+docker-compose run shipping python manage.py reseed_shipping_data
+cd ../../
+make makemessages
+make compilemessages
+git status
+git restore --staged 
+git status
+git restore --staged .
+git status
+git add app/nilo/payment/admin.py -p
+git status
+git restore app/nilo/payment/migrations/0019_auto_20210329_1421.py app/nilo/payment/migrations/0020_auto_20210329_1445.py 
+git status
+git commit -m "IMP do not show if description is empty" 
+git status
+git push origin KHO-1561
+git push origin KHO-1561-multilanguage-bank-transfer-inf 
+git add -p
+git commit -m "IMP migrations" 
+git push origin KHO-1561-multilanguage-bank-transfer-inf 
+git status
+git checkout master
+git pull
+git checkout mix/20210301 
+git checkout mix/franquicias-2020113001 
+git fetch --prune 
+git checkout KHO-1572-performance-oney-requests-in-de 
+git status
+make dbconnect
+make start c=web
+ll /home/amat/src/kavehome-pt/app/manage.py
+/usr/local/bin/docker-compose -f /home/amat/src/kavehome-pt/docker-compose.yml -f /home/amat/.cache/JetBrains/PyCharm2020.3/tmp/docker-compose.override.340.yml up --exit-code-from web --abort-on-container-exit web
+/usr/local/bin/docker-compose -f /home/amat/src/kavehome-pt/docker-compose.yml up --exit-code-from web --abort-on-container-exit web
+vim /home/amat/.cache/JetBrains/PyCharm2020.3/tmp/docker-compose.override.340.yml
+/usr/local/bin/docker-compose -f /home/amat/src/kavehome-pt/docker-compose.yml -f /home/amat/.cache/JetBrains/PyCharm2020.3/tmp/docker-compose.override.214.yml up --exit-code-from web --abort-on-container-exit web
+vim /home/amat/.cache/JetBrains/PyCharm2020.3/tmp/docker-compose.override.214.yml
+/usr/local/bin/docker-compose -f /home/amat/src/kavehome-pt/docker-compose.yml -f /home/amat/.cache/JetBrains/PyCharm2020.3/tmp/docker-compose.override.214.yml up --exit-code-from web --abort-on-container-exit web
+vim /home/amat/.cache/JetBrains/PyCharm2020.3/tmp/docker-compose.override.214.yml
+/usr/local/bin/docker-compose -f /home/amat/src/kavehome-pt/docker-compose.yml -f /home/amat/.cache/JetBrains/PyCharm2020.3/tmp/docker-compose.override.214.yml up --exit-code-from web --abort-on-container-exit web
+/usr/local/bin/docker-compose -f /home/amat/src/kavehome-pt/docker-compose.yml up --exit-code-from web --abort-on-container-exit web
+vim /home/amat/.cache/JetBrains/PyCharm2020.3/tmp/docker-compose.override.600.yml
+make pdb c=web
+make start c=web
+make pdb c=web
+make start c=web
+git checkout -
+git status
+make start c=web
+make importdb
+make start c=web
+make pdb c=web
+git add -p
+git status
+git commit -m "FIX change data center for mailchimp api" 
+git push origin KHO-1634-mailchimp-parámetro-data-center 
+git checkout -
+git status
+make start c=web
+rgrep DJANGO_SETTINGS_MODULE
+make start c=web
+git checkout -p
+kubepreau get pods 
+kubepreau exec -ti web-front-au-pre-franchises-1.11.0-76f6bc7c6d-76ls6 -- bash 
+kubepregr edit secrets mailchimp
+which kubepregr
+less ~/.bashrc
+KUBECONFIG=/home/amat/.kube/kavehome-franchises-pre kubectl -n nilo-kv-gr edit secrets mailchimp
+htop
+sudo swapon --show
+ll /swapfile 
+sudo swapoff /swapfile
+rm /swapfile 
+sudo rm -f /swapfile 
+sudo fallocate -l 16G /swapfile
+sudo dd if=/dev/zero of=/swapfile bs=1024 count=16777216
+sudo chmod 600 /swapfile
+sudo mkswap /swapfile
+sudo swapon /swapfile
+vim /etc/fstab 
+sudo swapon --show
+htop
+vim ~/.bashrc 
+KUBECONFIG=/home/amat/.kube/kavehome-franchises-pre kubectl -n nilo-kv-gr edit secrets mailchimp
+eval "$(docker-machine env default)"
+cd ../ms-kavehome-global/
+l
+ll
+make build 
+cp env.sample .env
+make build 
+eval "$(docker-machine env default)"
+docker-compose -V
+docker-compose -v
+cd -
+kubepro get secrets
+kubepro edit secrets dw
+kubepregr edit secrets mailchimp
+kubepregr get deployments
+kubepregr edit deployment web-front-gr-pre-franchises-1.11.0
+kubepregr get deployment web-front-gr-pre-franchises-1.11.0 -o yaml
+make bash c=web
+kubepregr get pods 
+kubepregr exec -ti web-front-gr-pre-franchises-1.11.0-5654bc5dc4-xcvbn -- bash 
+ll
+vim ~/.bashrc
+Postman 2&>/dev/null &
+ipython
+ipython3
+sudo apt install ipython3
+ipython
+ipython3
+sudo update-alternatives --install /usr/bin/ipython ipython /usr/bin/ipython3 1
+ipython
+pip 'v 
+python
+which python
+ipython
+git add -p
+git status
+git add app/nilo/payment/admin.py  app/nilo/payment/models.py
+git status
+git restore app/locale/*
+git status
+git commit -m "IMP show in admin for all languages"
+ipython
+make manage/shell
+htop
+cd src/kavehome-pt/
+cd ../kavehome-base/
+git pull
+git log 
+git show 2021032901
+git status
+git stash save -u
+git checkout mix/20210301 
+git status
+git pull
+make makemessages
+cp .env .env-oscar2
+cp .env .env-pre
+ll
+docker-compose run manager scripts/import_remote_app_to_dev.py --local-db-name kh_web_oscar2 --env-file .env-oscar2
+git checkout DEV1979-768-migracion-oscar2 
+docker-compose run manager scripts/import_remote_app_to_dev.py --local-db-name kh_web_oscar2 --env-file .env-oscar2
+sudo rm -rf DB_DUMPS/20210401070001-nilokvwebpro
+docker-compose run manager scripts/import_remote_app_to_dev.py --local-db-name kh_web_oscar2 --env-file .env-oscar2
+ll
+docker-compose run manager scripts/import_remote_app_to_dev.py --help
+docker-compose run manager scripts/import_remote_app_to_dev.py --local-db-name kh_web_pre --env-file .env-pre --env pre
+ll
+make makemessages
+add -p
+git add -p
+git status
+git commit -m "ADD new translations 20210401" 
+git push origin mix/20210301 
+giit log 
+git log 
+giit status
+git status
+git pull
+git log 
+git checkout translate2021033101
+giit log 
+git log 
+git checkout -
+git cherry-pick 32fa90e50cf44a323da092cec66cec8a542c008d
+git push origin mix/20210301 
+git log 
+git show 
+git status
+git checkout -
+git log 
+git checkout -
+git log 
+git reset HEAD~1
+git status
+git checkout -- .
+git status
+git cherry-pick f5b276baecf213f97f22cd9eb2d604b6bc1938fa..translate2021033101
+git push origin mix/20210301 -f 
+git log 
+git checkout -
+git log 
+git checkout -
+git cherry-pick f5b276baecf213f97f22cd9eb2d604b6bc1938fa
+git push origin mix/20210301 
+git log 
+git tag kh2021040102
+git push origin kh2021040102
+git checkout mix/franquicias-2020
+git checkout mix/franquicias-2020113001 
+git checkout KHO-1572-performance-oney-requests-in-de 
+git stash pop
+git status
+git stash save -u
+git checkout mix/franquicias-2020113001 
+git pull
+git log 
+git tag kh2021040101
+git tag fran-kh2021040101
+git push origin fran-kh2021040101
+git log 
+git checkout -
+git stash pop
+make test_create_db
+sudo chown amat:amat /home/amat/src/kavehome-pt/manager_data/gcloud_config/legacy_credentials
+make test_create_db
+sudo chown -R amat:amat /home/amat/src/kavehome-pt/manager_data/gcloud_config/legacy_credentials
+make test_create_db
+sudo chown -R amat:amat /home/amat/src/kavehome-pt/manager_data/gcloud_config/
+make test_create_db
+make test
+/home/amat/.virtualenvs/kh_venv/bin/isort -e -m 4 -w 100 /home/amat/src/kavehome-pt/tests/kavehome_pt/cache/keys/test_method_cache.p
+ll /home/amat/src/kavehome-pt/tests/kavehome_pt/cache/keys/test_method_cache.p
+/home/amat/.virtualenvs/kh_venv/bin/isort -e -m 4 -w 100 /home/amat/src/kavehome-pt/tests/kavehome_pt/cache/keys/test_method_cache.py
+make test
+docker-compose -f docker-compose.tests.yml build 
+make test
+docker-compose -f docker-compose.tests.yml build tests
+make test
+docker-compose -f docker-compose.tests.yml build tests
+make test
+docker-compose -f docker-compose.tests.yml build tests
+make test
+docker-compose -f docker-compose.tests.yml build tests
+make test
+docker-compose -f docker-compose.tests.yml build tests
+make test
+q
+make test
+q
+docker-compose -f docker-compose.tests.yml build tests
+make test
+git status
+make test
+git status
+make test
+git checkout -
+git log 
+git show d3a32ce6055e6f097d185da5efcf42b679caf973
+git pull
+git log 
+git checkout -
+git log 
+git push origin KHO-1572-performance-oney-requests-in-de
+git checkout -
+git merge origin/KHO-1572-performance-oney-requests-in-de
+git status
+git add -p
+git log 
+git commit -m "FIX recursive call"
+git status
+git push origin mix/20210301 
+git tag kh2021040106
+git push origin kh2021040106
+git checkout -
+docker-compose -f docker-compose.tests.yml build tests
+make test
+git add -p
+git commit -m "IMP delete cache without helpers" 
+git push origin KHO-1572-performance-oney-requests-in-de 
+git status
+git status
+git diff
+kubepro get pods
+kubepro exec -ti front-pro-1.12.2-6d6bd9dfff-kczvm -- bash 
+git status
+git stash save -u 
+git checkout mix/20210301 
+git pull
+git log 
+git checkout mix/franquicias-2020113001 
+git pull
+git status
+git checkout -
+git checkout KHO-1572-performance-oney-requests-in-de 
+git stash pop
+make start c=web
+git checkout mix/20210301 
+make start c=web
+make stop c=web
+make start c=web
+ll
+rm .env 
+tldr ln 
+mv .env.bak .env-kh
+ln -s .env-kh .env
+ll
+make dbconnect
+make start c=web
+make importdb 
+ll
+make start c=web
+make dbconnect
+make start c=web
+git add -p
+git status
+git add app/kavehome_pt/cache/keys/facade.py tests/kavehome_pt/cache/fixtures/ app/kavehome_pt/cache/indices/facade.py tests/kavehome_pt/cache/keys/test_method_cache.py 
+git commit -m "ADD decorator to cache methods, tests and cache oney requests" 
+git status
+git push origiin KHO-1572-performance-oney-requests-in-de 
+git push origin KHO-1572-performance-oney-requests-in-de 
+git status
+git checkout mix/20210301 
+giit pull
+git pull
+git tag kh2021040103
+git push origin kh2021040103
+git checkout -
+git add -p
+git commit -m "FIX recursive call" 
+git push origin KHO-1572-performance-oney-requests-in-de 
+git checkout mix/20210301 
+git merge origin/KHO-1572-performance-oney-requests-in-de 
+git log 
+git push origin mix/20210301 
+git tag kh2021040104
+git push origin kh2021040104
+git checkout -
+ssh -i ~/.certificates/kavehome_ecommerce.pem ubuntu@ec2-34-243-227-7.eu-west-1.compute.amazonaws.com
+make manage/shell
+sensors
+make manage/shell
+cd -
+cd ../kavehome-pt/
+ll
+/home/amat/.virtualenvs/kh_venv/bin/isort -e -m 4 -w 100 /home/amat/src/kavehome-pt/app/connectif/serializers/events.py

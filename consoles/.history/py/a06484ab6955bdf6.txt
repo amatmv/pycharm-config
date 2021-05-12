@@ -1,0 +1,908 @@
+FacadeOney.get_business_transaction_list
+-. . -..- - / . -. - .-. -.--
+from django.core.cache import cache
+-. . -..- - / . -. - .-. -.--
+license
+-. . -..- - / . -. - .-. -.--
+license()
+-. . -..- - / . -. - .-. -.--
+Product.objects.filter(title_es__icontains='ralf')
+-. . -..- - / . -. - .-. -.--
+ralf = Product.objects.filter(title_es__icontains='ralf').first()
+-. . -..- - / . -. - .-. -.--
+connectif_service.build_product_info(ralf.id())
+-. . -..- - / . -. - .-. -.--
+ralf.get_absolute_url()
+-. . -..- - / . -. - .-. -.--
+from rewriter.utils import ReverseRewriter
+-. . -..- - / . -. - .-. -.--
+ReverseRewriter().get_url(instance.get_absolute_url())
+-. . -..- - / . -. - .-. -.--
+ReverseRewriter().get_url(ralf.get_absolute_url())
+-. . -..- - / . -. - .-. -.--
+ralf.id
+-. . -..- - / . -. - .-. -.--
+from oscar.core.loading import get_model
+-. . -..- - / . -. - .-. -.--
+Product = get_model('catalogue', 'Product')
+Product.objects.filter(title_es__icontains='ralf')
+ralf = Product.objects.filter(title_es__icontains='ralf').first()
+-. . -..- - / . -. - .-. -.--
+from django.utils.translation import get_language
+-. . -..- - / . -. - .-. -.--
+from connectif.connectif import ConnectifApi
+-. . -..- - / . -. - .-. -.--
+connectif_service.build_product_info(ralf.id)
+-. . -..- - / . -. - .-. -.--
+print(res
+      )
+
+-. . -..- - / . -. - .-. -.--
+ralf
+-. . -..- - / . -. - .-. -.--
+ralf.title
+-. . -..- - / . -. - .-. -.--
+ralf.slug
+-. . -..- - / . -. - .-. -.--
+Product = get_model('catalogue', 'Product')
+Product.objects.filter(title_es__icontains='ralf')
+ralf = Product.objects.filter(title_es__icontains='ralf').first()
+connectif_service.build_product_info(ralf.id())
+ralf.get_absolute_url()
+from rewriter.utils import ReverseRewriter
+ReverseRewriter().get_url(instance.get_absolute_url())
+ReverseRewriter().get_url(ralf.get_absolute_url())
+ralf.id
+from oscar.core.loading import get_model
+Product = get_model('catalogue', 'Product')
+Product.objects.filter(title_es__icontains='ralf')
+ralf = Product.objects.filter(title_es__icontains='ralf').first()
+from django.utils.translation import get_language
+from connectif.connectif import ConnectifApi
+connectif_service = ConnectifApi(language=get_language())
+connectif_service.build_product_info(ralf.id)
+-. . -..- - / . -. - .-. -.--
+from django.utils.translation import (
+    activate as activate_language,
+    ugettext_lazy as _
+)
+-. . -..- - / . -. - .-. -.--
+activate_language('es')
+-. . -..- - / . -. - .-. -.--
+from oscar.core.loading import get_model
+Product = get_model('catalogue', 'Product')
+Product.objects.filter(title_es__icontains='ralf')
+ralf = Product.objects.filter(title_es__icontains='ralf').first()
+from django.utils.translation import get_language
+from connectif.connectif import ConnectifApi
+connectif_service = ConnectifApi(language=get_language())
+connectif_service.build_product_info(ralf.id)
+
+
+from django.utils.translation import (
+    activate as activate_language,
+    ugettext_lazy as _
+)
+activate_language('es')
+from multistore.store import get_store, activate as activate_store
+activate_store('es')
+-. . -..- - / . -. - .-. -.--
+connectif_service = ConnectifApi(language=get_language())
+-. . -..- - / . -. - .-. -.--
+from oscar.core.loading import get_model
+Product = get_model('catalogue', 'Product')
+Product.objects.filter(title_es__icontains='ralf')
+ralf = Product.objects.filter(title_es__icontains='ralf').first()
+from django.utils.translation import get_language
+from connectif.connectif import ConnectifApi
+connectif_service = ConnectifApi(language=get_language())
+connectif_service.build_product_info(ralf.id)
+
+
+-. . -..- - / . -. - .-. -.--
+connectif_service.send_product_info(ralf.id)
+-. . -..- - / . -. - .-. -.--
+prod.id()
+-. . -..- - / . -. - .-. -.--
+prod.title
+-. . -..- - / . -. - .-. -.--
+from django.utils.translation import (
+    activate as activate_language,
+    ugettext_lazy as _
+)
+activate_language('es')
+from multistore.store import get_store, activate as activate_store
+activate_store('es')
+from oscar.core.loading import get_model
+Product = get_model('catalogue', 'Product')
+Product.objects.filter(title_es__icontains='ralf')
+ralf = Product.objects.filter(title_es__icontains='ralf').first()
+from django.utils.translation import get_language
+from connectif.connectif import ConnectifApi
+connectif_service = ConnectifApi(language=get_language())
+connectif_service.build_product_info(ralf.id)
+
+
+from django.utils.translation import (
+    activate as activate_language,
+    ugettext_lazy as _
+)
+activate_language('es')
+from multistore.store import get_store, activate as activate_store
+activate_store('es')
+connectif_service = ConnectifApi(language=get_language())
+-. . -..- - / . -. - .-. -.--
+prod = Product.objects.get(upc='A615R04')
+-. . -..- - / . -. - .-. -.--
+prod.upc
+-. . -..- - / . -. - .-. -.--
+prod = Product.objects.get(upc='CC0934PK81')
+-. . -..- - / . -. - .-. -.--
+connectif_service.send_product_info(prod.id)
+-. . -..- - / . -. - .-. -.--
+[
+        lang for (lang, env_var) in
+        settings.CONNECTIF_DASHBOARD_KEYS.items()
+        if env_var
+    ]
+-. . -..- - / . -. - .-. -.--
+[
+        lang for (lang, env_var) in
+        settings.CONNECTIF_DASHBOARD_KEYS.items()
+        if 'XXXXX' not in env_var
+    ]
+-. . -..- - / . -. - .-. -.--
+from connectif.connectif import ConnectifApi
+
+active_connectif_languages = [
+    lang for (lang, env_var) in
+    settings.CONNECTIF_DASHBOARD_KEYS.items()
+    if 'XXXXX' not in env_var
+]
+-. . -..- - / . -. - .-. -.--
+ConnectifApi(language=active_connectif_languages[0]).send_product_info(product_id)
+-. . -..- - / . -. - .-. -.--
+Product = get_model('catalogue', 'Product')
+-. . -..- - / . -. - .-. -.--
+konna = Product.objects.get(upc='CC0934PK81')
+-. . -..- - / . -. - .-. -.--
+konna.id
+-. . -..- - / . -. - .-. -.--
+import json
+-. . -..- - / . -. - .-. -.--
+json.loads(res.content)
+-. . -..- - / . -. - .-. -.--
+from connectif.connectif import ConnectifApi
+
+active_connectif_languages = [
+    lang for (lang, env_var) in
+    settings.CONNECTIF_DASHBOARD_KEYS.items()
+    if 'XXXXX' not in env_var
+]
+ConnectifApi(language=active_connectif_languages[0]).send_product_info(product_id)
+from oscar.core.loading import *
+Product = get_model('catalogue', 'Product')
+konna = Product.objects.get(upc='CC0934PK81')
+konna.id
+-. . -..- - / . -. - .-. -.--
+res
+-. . -..- - / . -. - .-. -.--
+res.request.__dict__
+-. . -..- - / . -. - .-. -.--
+from kavehome_pt import settings
+-. . -..- - / . -. - .-. -.--
+from oscar.core.loading import *
+Product = get_model('catalogue', 'Product')
+konna = Product.objects.get(upc='CC0934PK81')
+konna.id
+-. . -..- - / . -. - .-. -.--
+from connectif.connectif import ConnectifApi
+
+active_connectif_languages = [
+    lang for (lang, env_var) in
+    settings.CONNECTIF_DASHBOARD_KEYS.items()
+    if 'XXXXX' not in env_var
+]
+
+-. . -..- - / . -. - .-. -.--
+ConnectifApi(language=active_connectif_languages[0]).send_product_info(konna.pk)
+-. . -..- - / . -. - .-. -.--
+from kavehome_pt import settings
+from oscar.core.loading import *
+Product = get_model('catalogue', 'Product')
+konna = Product.objects.get(upc='CC0934PK81')
+konna.id
+from connectif.connectif import ConnectifApi
+
+active_connectif_languages = [
+    lang for (lang, env_var) in
+    settings.CONNECTIF_DASHBOARD_KEYS.items()
+    if 'XXXXX' not in env_var
+]
+ConnectifApi(language=active_connectif_languages[0]).send_product_info(konna.pk)
+-. . -..- - / . -. - .-. -.--
+active_connectif_languages[0]
+-. . -..- - / . -. - .-. -.--
+from kavehome_pt import settings
+from oscar.core.loading import *
+Product = get_model('catalogue', 'Product')
+konna = Product.objects.get(upc='CC0934PK81')
+konna.id
+from connectif.connectif import ConnectifApi
+
+active_connectif_languages = [
+    lang for (lang, env_var) in
+    settings.CONNECTIF_DASHBOARD_KEYS.items()
+    if 'XXXXX' not in env_var
+]
+
+-. . -..- - / . -. - .-. -.--
+res.__dict__
+-. . -..- - / . -. - .-. -.--
+res = ConnectifApi(language=active_connectif_languages[0]).send_product_info(konna.pk)
+-. . -..- - / . -. - .-. -.--
+from nilo.catalogue.tasks import send_product_to_connectif
+-. . -..- - / . -. - .-. -.--
+send_product_to_connectif(konna.id)
+-. . -..- - / . -. - .-. -.--
+In [2]: Product = get_model('catalogue', 'Product')
+
+In [3]: bol = Product.objects.get(upc='AA7127K33')
+
+In [4]: from connectif.tasks import send_product_to_connectif
+
+In [5]: send_product_to_connectif(bol.id)
+-. . -..- - / . -. - .-. -.--
+settings.CONNECTIF_DASHBOARD_KEYS['en-au'] = None
+-. . -..- - / . -. - .-. -.--
+settings.CONNECTIF_DASHBOARD_KEYS
+-. . -..- - / . -. - .-. -.--
+In [2]: Product = get_model('catalogue', 'Product')
+
+In [3]: bol = Product.objects.get(upc='AA7127K33')
+
+In [4]: from connectif.tasks import send_product_to_connectif
+
+
+-. . -..- - / . -. - .-. -.--
+send_product_to_connectif(bol.id)
+-. . -..- - / . -. - .-. -.--
+import sentry_sdk
+-. . -..- - / . -. - .-. -.--
+scope = sentry_sdk.push_scope()
+-. . -..- - / . -. - .-. -.--
+help(scope)
+-. . -..- - / . -. - .-. -.--
+with scope:
+    scope.set_context
+    
+-. . -..- - / . -. - .-. -.--
+P = get_model('catalogue', 'Product')
+-. . -..- - / . -. - .-. -.--
+prod = P.objects.get(upc='S717GR39')
+-. . -..- - / . -. - .-. -.--
+prod.physical_stock_qty()
+-. . -..- - / . -. - .-. -.--
+from oscar.core.loading import *
+-. . -..- - / . -. - .-. -.--
+O = get_model("order", "Order")
+-. . -..- - / . -. - .-. -.--
+O._meta.fields
+
+-. . -..- - / . -. - .-. -.--
+O.objects.count()
+-. . -..- - / . -. - .-. -.--
+O.objects.all()[260000]
+-. . -..- - / . -. - .-. -.--
+o = O.objects.all()[260000]
+-. . -..- - / . -. - .-. -.--
+o.user
+-. . -..- - / . -. - .-. -.--
+o.lines()
+-. . -..- - / . -. - .-. -.--
+o.lines
+-. . -..- - / . -. - .-. -.--
+o.lines.all()
+-. . -..- - / . -. - .-. -.--
+o = O.objects.all()[260001]
+-. . -..- - / . -. - .-. -.--
+o.sources.all()
+-. . -..- - / . -. - .-. -.--
+o = O.objects.filter(sources__isnull=False).first()
+-. . -..- - / . -. - .-. -.--
+o.__dict__
+-. . -..- - / . -. - .-. -.--
+o = O.objects.filter(sources__count__gt=1).first()
+-. . -..- - / . -. - .-. -.--
+o = O.objects.filter(sources__isnull=False)
+-. . -..- - / . -. - .-. -.--
+o.count()
+-. . -..- - / . -. - .-. -.--
+for order in o:
+    if len(order.sources) > 1:
+        break
+        
+-. . -..- - / . -. - .-. -.--
+for order in o:
+    if len(order.sources.count()) > 1:
+        break
+        
+-. . -..- - / . -. - .-. -.--
+for order in o:
+    if order.sources.count() > 1:
+        break
+        
+-. . -..- - / . -. - .-. -.--
+order
+-. . -..- - / . -. - .-. -.--
+order.sources.count()
+-. . -..- - / . -. - .-. -.--
+order.__dict__
+-. . -..- - / . -. - .-. -.--
+order.shipping_events
+-. . -..- - / . -. - .-. -.--
+order.shipping_events.all()
+-. . -..- - / . -. - .-. -.--
+order.shippings.all()
+-. . -..- - / . -. - .-. -.--
+ShippingEvent = get_model('order', 'ShippingEvent')
+-. . -..- - / . -. - .-. -.--
+ShippingEvent.objects.first()
+-. . -..- - / . -. - .-. -.--
+ShippingEvent.objects.count()
+-. . -..- - / . -. - .-. -.--
+Shipping = get_model('order', 'Shipping')
+-. . -..- - / . -. - .-. -.--
+Shipping.objects.firsT()
+-. . -..- - / . -. - .-. -.--
+Shipping.objects.first()
+-. . -..- - / . -. - .-. -.--
+Shipping.objects.first().__dict__
+-. . -..- - / . -. - .-. -.--
+User = get_model('kh_users', 'User')
+-. . -..- - / . -. - .-. -.--
+User.objects.filter(email='amartinez@kavehome.com')
+-. . -..- - / . -. - .-. -.--
+User.objects.filter(email='amartinez@kavehome.com').first().__dict__
+-. . -..- - / . -. - .-. -.--
+settings.OSCARAPI_CATEGORY_FIELDS
+-. . -..- - / . -. - .-. -.--
+from nilo_api.serializers.product import CategorySerializer
+-. . -..- - / . -. - .-. -.--
+Category = get_model('catalogue', 'Category')
+-. . -..- - / . -. - .-. -.--
+Category.objects.first()
+-. . -..- - / . -. - .-. -.--
+cat = Category.objects.first()
+-. . -..- - / . -. - .-. -.--
+CategorySerializer(data=cat)
+-. . -..- - / . -. - .-. -.--
+CategorySerializer(data=cat).data
+-. . -..- - / . -. - .-. -.--
+CategorySerializer(data=cat).is_valid()
+-. . -..- - / . -. - .-. -.--
+CategorySerializer(data=cat).is_valid(raise_exception=True)
+-. . -..- - / . -. - .-. -.--
+CategorySerializer(cat).is_valid()
+-. . -..- - / . -. - .-. -.--
+CategorySerializer.serialize(cat)
+-. . -..- - / . -. - .-. -.--
+CategorySerializer().serialize(cat)
+-. . -..- - / . -. - .-. -.--
+CategorySerializer(cat)
+-. . -..- - / . -. - .-. -.--
+CategorySerializer(cat).data
+-. . -..- - / . -. - .-. -.--
+from nilo_api.serializers import OrderStatusSerializer
+-. . -..- - / . -. - .-. -.--
+from django.apps import apps
+-. . -..- - / . -. - .-. -.--
+for _class in apps.get_models():
+    app, module, *rest = _class.__name__.split('.')
+    if app in ('nilo', 'oscar'):
+        try:
+            model = get_model(module, rest[-1])
+            globals()[_class.__name__] = model
+        except:
+            pass
+        
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[0].__name__.split('.')
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[0].__name__
+-. . -..- - / . -. - .-. -.--
+str(apps.get_models()[0])
+-. . -..- - / . -. - .-. -.--
+repr(apps.get_models()[0])
+-. . -..- - / . -. - .-. -.--
+print(apps.get_models()[0])
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[0].__class__
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[0].__class__.__name__
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[0]
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[0].__mro__
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[25].__mro__
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[25]
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[27]
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[29]
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[32]
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[33]
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[35].__mro__
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[35].__bases__
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[35].__module__.__name__
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[35].__module__.__dict__
+-. . -..- - / . -. - .-. -.--
+app, module, *rest = apps.get_models()[35].__module__.split('.')
+-. . -..- - / . -. - .-. -.--
+app
+-. . -..- - / . -. - .-. -.--
+module
+-. . -..- - / . -. - .-. -.--
+for _class in apps.get_models():
+    app, module, *rest = _class.__module__.split('.')
+    if app in ('nilo', 'oscar'):
+        try:
+            model = get_model(module, rest[-1])
+            globals()[_class.__name__] = model
+        except:
+            pass
+        
+-. . -..- - / . -. - .-. -.--
+for _class in apps.get_models():
+    app, module, *rest = _class.__module__.split('.')
+    if app in ('nilo', 'oscar'):
+        try:
+            model = get_model(module, rest[-1])
+            print(f"Adding {rest[-1]} from module {module}")
+            globals()[_class.__name__] = model
+        except:
+            pass
+        
+-. . -..- - / . -. - .-. -.--
+for _class in apps.get_models():
+    app, module, *rest = _class.__module__.split('.')
+    if app in ('nilo', 'oscar'):
+        try:
+            model = get_model(module, rest[-1])
+            print(f"Adding {rest[-1]} from module {module}")
+            globals()[_class.__name__] = model
+        except Exception as e:
+            print(e)
+            pass
+        
+-. . -..- - / . -. - .-. -.--
+from oscar.core.loading import get_model
+for _class in apps.get_models():
+    app, module, *rest = _class.__module__.split('.')
+    if app in ('nilo', 'oscar'):
+        try:
+            model = get_model(module, rest[-1])
+            print(f"Adding {rest[-1]} from module {module}")
+            globals()[_class.__name__] = model
+        except Exception as e:
+            print(e)
+            pass
+        
+-. . -..- - / . -. - .-. -.--
+from oscar.core.loading import get_model
+for _class in apps.get_models():
+    app, module, *rest = _class.__module__.split('.')
+    if app in ('nilo', 'oscar'):
+        try:
+            print(f"Adding {rest[-1]} from module {module}")
+            model = get_model(module, rest[-1])
+            globals()[_class.__name__] = model
+        except Exception as e:
+            print(e)
+            pass
+        
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[35].__dict__
+-. . -..- - / . -. - .-. -.--
+from oscar.core.loading import get_model
+for _class in apps.get_models():
+    app, module, *rest = _class.__module__.split('.')
+    if app in ('nilo', 'oscar'):
+        try:
+            print(f"Adding {_class.__name__} from module {module}")
+            model = get_model(module, _class.__name__)
+            globals()[_class.__name__] = model
+        except Exception as e:
+            print(e)
+            pass
+        
+-. . -..- - / . -. - .-. -.--
+from oscar.core.loading import get_model
+for _class in apps.get_models():
+    app, module, *rest = _class.__module__.split('.')
+    if app in ('nilo', 'oscar'):
+        try:
+            model = get_model(module, _class.__name__)
+            print(f"Adding {_class.__name__} from module {module}")
+            globals()[_class.__name__] = model
+        except Exception as e:
+            print(e)
+            pass
+        
+-. . -..- - / . -. - .-. -.--
+from oscar.core.loading import get_model
+for _class in apps.get_models():
+    app, module, *rest = _class.__module__.split('.')
+    if app in ('nilo', 'oscar'):
+        try:
+            model = get_model(module, _class.__name__)
+        #    print(f"Adding {_class.__name__} from module {module}")
+            globals()[_class.__name__] = model
+        except Exception as e:
+            print(e)
+            pass
+        
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[35]
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[35].__name__
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[35].__module__
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[35].__module__.rsplit('.', 1)
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[35].__module__.rsplit('.')
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[35].__module__.rsplit('.models', 1)
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[35].__module__.split('.models', 1)
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[35].__module__.rsplit('.models', 2)
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[35].__module__.rsplit('.models')
+-. . -..- - / . -. - .-. -.--
+apps.get_models()[35].__module__.split('.models')
+-. . -..- - / . -. - .-. -.--
+apps.get_models()
+-. . -..- - / . -. - .-. -.--
+import re
+-. . -..- - / . -. - .-. -.--
+r = re.compile('models')
+-. . -..- - / . -. - .-. -.--
+help(r.search)
+-. . -..- - / . -. - .-. -.--
+r.search('oscar.apps.order.models.Surcharge').findall()
+-. . -..- - / . -. - .-. -.--
+r.search('oscar.apps.order.models.Surcharge').group
+-. . -..- - / . -. - .-. -.--
+r.search('oscar.apps.order.models.Surcharge').groups
+-. . -..- - / . -. - .-. -.--
+r = re.compile('[a-z]+\.models\.[a-z]+')
+-. . -..- - / . -. - .-. -.--
+r = re.compile('*[a-z]+\.models\.[a-z]+.*')
+-. . -..- - / . -. - .-. -.--
+r = re.compile('.*[A-z]+\.models\.[A-z]+')
+-. . -..- - / . -. - .-. -.--
+r.search('oscar.apps.order.models.Surcharge')
+-. . -..- - / . -. - .-. -.--
+r.search('oscar.apps.order.models.Surcharge').groups()
+-. . -..- - / . -. - .-. -.--
+r.search('oscar.apps.order.models.Surcharge').group()
+-. . -..- - / . -. - .-. -.--
+r = re.compile('[A-z]+\.models\.[A-z]+')
+-. . -..- - / . -. - .-. -.--
+r.sub('oscar.apps.order.models.Surcharge')
+-. . -..- - / . -. - .-. -.--
+r.sub('oscar.apps.order.models.Surcharge', '.')
+-. . -..- - / . -. - .-. -.--
+r.split('oscar.apps.order.models.Surcharge')
+-. . -..- - / . -. - .-. -.--
+from oscar.core.loading import get_model
+for _class in apps.get_models():
+    app, module, *rest = _class.__module__.split('.')
+    if app in ('nilo', 'oscar'):
+        try:
+            model = get_model(module, _class.__name__)
+            globals()[_class.__name__] = model
+        except Exception as e:
+            print(f'{module}, {_class.__name__}, {_class}')
+            print(e)
+            pass
+        
+-. . -..- - / . -. - .-. -.--
+from oscar.core.loading import get_model
+for _class in apps.get_models():
+    app, module, *rest = _class.__module__.split('.')
+    if app in ('nilo', 'oscar'):
+        try:
+            model = get_model(module, _class.__name__)
+            globals()[_class.__name__] = model
+        except Exception as e:
+            print(f'{module}, {_class.__name__}, {_class}')
+            pass
+        
+-. . -..- - / . -. - .-. -.--
+Product
+-. . -..- - / . -. - .-. -.--
+Order
+-. . -..- - / . -. - .-. -.--
+Shipping
+-. . -..- - / . -. - .-. -.--
+ShippingEvents
+-. . -..- - / . -. - .-. -.--
+ShippingEvent
+-. . -..- - / . -. - .-. -.--
+o = Order.objects.get(number='100000996')
+-. . -..- - / . -. - .-. -.--
+from nilo_api.serializers.checkout import OrderStatusSerializer
+-. . -..- - / . -. - .-. -.--
+OrderStatusSerializer(o)
+-. . -..- - / . -. - .-. -.--
+OrderStatusSerializer(o).data
+-. . -..- - / . -. - .-. -.--
+OrderStatusSerializer(o).shipping_method
+-. . -..- - / . -. - .-. -.--
+serializer = OrderStatusSerializer(o)
+-. . -..- - / . -. - .-. -.--
+serializer.__dict__
+-. . -..- - / . -. - .-. -.--
+Order.objects.all()[51243]
+-. . -..- - / . -. - .-. -.--
+Order.objects.all()[51243].__dict__
+-. . -..- - / . -. - .-. -.--
+Order.objects.filter(number='ES10319737')
+-. . -..- - / . -. - .-. -.--
+a = (1,)
+-. . -..- - / . -. - .-. -.--
+a + (2,1)
+-. . -..- - / . -. - .-. -.--
+ShippingDraft.objects.first()
+-. . -..- - / . -. - .-. -.--
+ShippingDraft.objects.first().__dict__
+-. . -..- - / . -. - .-. -.--
+ShippingDraft.objects.all()
+-. . -..- - / . -. - .-. -.--
+ShippingDraft.objects.all()[100000].__dict__
+-. . -..- - / . -. - .-. -.--
+ShippingDraft.objects.count()
+-. . -..- - / . -. - .-. -.--
+Shipping.objects.count()
+-. . -..- - / . -. - .-. -.--
+Order.objects.all()[123123]
+-. . -..- - / . -. - .-. -.--
+Order.objects.all()[123123].shippings.all()
+-. . -..- - / . -. - .-. -.--
+Order.objects.all()[123123].shipping_drafts
+-. . -..- - / . -. - .-. -.--
+Order.objects.all()[123123].shipping_drafts.all()
+-. . -..- - / . -. - .-. -.--
+Order.objects.all()[123123].shipping_drafts.first().__dict__
+-. . -..- - / . -. - .-. -.--
+Order.objects.all()[123123].shippings.first().__dict__
+-. . -..- - / . -. - .-. -.--
+rest
+-. . -..- - / . -. - .-. -.--
+Order.objects.get(number='ES10319737')
+-. . -..- - / . -. - .-. -.--
+o = Order.objects.get(number='ES10319737')
+-. . -..- - / . -. - .-. -.--
+o.shippings.all()
+-. . -..- - / . -. - .-. -.--
+o = Order.objects.all()[123123]
+-. . -..- - / . -. - .-. -.--
+o.user.email()
+-. . -..- - / . -. - .-. -.--
+Order.objects.filter(shippings__isnull=False, ~Q(status='Delivered'))
+-. . -..- - / . -. - .-. -.--
+Order.objects.filter(shippings__isnull=False & ~Q(status='Delivered'))
+-. . -..- - / . -. - .-. -.--
+Order.objects.filter(~Q(status=settings.KHPT_ORDER_STATUS_DELIVERED))
+-. . -..- - / . -. - .-. -.--
+Order.objects.filter(~Q(status=settings.KHPT_ORDER_STATUS_DELIVERED)).filter(shippings__isnull=False)
+-. . -..- - / . -. - .-. -.--
+Order.objects.filter(~Q(status=settings.KHPT_ORDER_STATUS_DELIVERED)).filter(shippings__isnull=False).count()
+-. . -..- - / . -. - .-. -.--
+Order.objects.filter(~Q(status=settings.KHPT_ORDER_STATUS_DELIVERED)).filter(shippings__isnull=False).all()[12200]
+-. . -..- - / . -. - .-. -.--
+Order.objects.filter(~Q(status=settings.KHPT_ORDER_STATUS_DELIVERED)).filter(shippings__isnull=False).all()[12200].date_placed
+-. . -..- - / . -. - .-. -.--
+Order.objects.filter(~Q(status=settings.KHPT_ORDER_STATUS_DELIVERED)).filter(shippings__isnull=False).all()[12294].date_placed
+-. . -..- - / . -. - .-. -.--
+Order.objects.filter(shippings__isnull=False).count()
+-. . -..- - / . -. - .-. -.--
+Order.objects.filter(shippings__isnull=False).filter(status=settings.KHPT_ORDER_STATUS_CONFIRMED)
+-. . -..- - / . -. - .-. -.--
+Order.objects.filter(shippings__isnull=False).filter(status=settings.KHPT_ORDER_STATUS_CONFIRMED).first()
+-. . -..- - / . -. - .-. -.--
+Order.objects.filter(shippings__isnull=False).filter(status=settings.KHPT_ORDER_STATUS_CONFIRMED).first().date_placed()
+-. . -..- - / . -. - .-. -.--
+Order.objects.filter(shippings__isnull=False).filter(status=settings.KHPT_ORDER_STATUS_CONFIRMED).first().date_placed
+    
+-. . -..- - / . -. - .-. -.--
+o = Order.objects.filter(shippings__isnull=False).filter(status=settings.KHPT_ORDER_STATUS_CONFIRMED).first().date_placed
+
+    
+-. . -..- - / . -. - .-. -.--
+o = Order.objects.filter(shippings__isnull=False).filter(status=settings.KHPT_ORDER_STATUS_CONFIRMED).first()
+    
+-. . -..- - / . -. - .-. -.--
+In [2]: from nilo.address.forms import UserAddress
+
+-. . -..- - / . -. - .-. -.--
+In [3]: UserAddress.perform_vat_validation(
+   ...:                 vat='BE0833065494',
+   ...:                 country_code='FR',
+   ...:                 raise_errors=True,
+   ...:                 vies_validate=False
+   ...:             )
+
+-. . -..- - / . -. - .-. -.--
+o = Order.objects.filter(shippings__isnull=False).filter(status=settings.KHPT_ORDER_STATUS_CONFIRMED).first()
+
+    
+-. . -..- - / . -. - .-. -.--
+from django.conf import settings
+-. . -..- - / . -. - .-. -.--
+o = Order.objects.filter(shippings__isnull=False).filter(status=settings.KHPT_ORDER_STATUS_CONFIRMED).first()
+
+-. . -..- - / . -. - .-. -.--
+o
+-. . -..- - / . -. - .-. -.--
+o.number
+-. . -..- - / . -. - .-. -.--
+o.user.email
+-. . -..- - / . -. - .-. -.--
+send_product_to_connectif(19546)
+-. . -..- - / . -. - .-. -.--
+from nilo.address.forms import UserAddress
+-. . -..- - / . -. - .-. -.--
+#UserAddress.perform_vat_validation(vat='')
+-. . -..- - / . -. - .-. -.--
+vat = 'U05318662'
+-. . -..- - / . -. - .-. -.--
+UserAddress.perform_vat_validation(vat=vat, is_company=True, country_code='ES', vies_validate=True)
+-. . -..- - / . -. - .-. -.--
+UserAddress.perform_vat_validation(vat=vat, raise_errors=True, country_code='ES', vies_validate=False)
+-. . -..- - / . -. - .-. -.--
+from multistore.store import get_store, activate as activate_store
+-. . -..- - / . -. - .-. -.--
+activate_store('es')
+-. . -..- - / . -. - .-. -.--
+UserAddress.perform_vat_validation(vat=vat, raise_errors=True, country_code='ES', vies_validate=True)
+-. . -..- - / . -. - .-. -.--
+Product.objects.first()
+-. . -..- - / . -. - .-. -.--
+p = Product.objects.first()
+-. . -..- - / . -. - .-. -.--
+p = Product.objects.filter(~Q(structure__in=['standalone', 'child']))
+-. . -..- - / . -. - .-. -.--
+p
+-. . -..- - / . -. - .-. -.--
+p = p.first()
+-. . -..- - / . -. - .-. -.--
+p.title_es
+-. . -..- - / . -. - .-. -.--
+from connectif.tasks import send_product_to_connectif
+-. . -..- - / . -. - .-. -.--
+from django.db.models import Q
+-. . -..- - / . -. - .-. -.--
+p = Product.objects.filter(~Q(structure__in=['standalone', 'child'])).first()
+-. . -..- - / . -. - .-. -.--
+p.title
+-. . -..- - / . -. - .-. -.--
+send_product_to_connectif(p.id)
+-. . -..- - / . -. - .-. -.--
+from kavehome_pt.cache.keys.method import *
+-. . -..- - / . -. - .-. -.--
+MethodKHCache
+-. . -..- - / . -. - .-. -.--
+from data_wh.service import DataWHService
+-. . -..- - / . -. - .-. -.--
+MethodKHCache.get_method_name_from_func(DataWHService.stock_by_store)
+-. . -..- - / . -. - .-. -.--
+user_function = 'DataWHService.stock_by_store'
+-. . -..- - / . -. - .-. -.--
+user_function = DataWHService.stock_by_store
+-. . -..- - / . -. - .-. -.--
+method_full_name = MethodKHCache.get_method_name_from_func(
+                user_function
+            )
+-. . -..- - / . -. - .-. -.--
+args = ['AA1130RF15']
+-. . -..- - / . -. - .-. -.--
+kwargs = {full_store_info: True, store: 'es'}
+-. . -..- - / . -. - .-. -.--
+kwargs = {'full_store_info': True, 'store': 'es'}
+-. . -..- - / . -. - .-. -.--
+cache_key_name = MethodKHCache.generate_key_name(
+                method_full_name, args, kwargs
+            )
+-. . -..- - / . -. - .-. -.--
+cache_key_name
+-. . -..- - / . -. - .-. -.--
+method_full_name
+-. . -..- - / . -. - .-. -.--
+from django.core.cache import cache as django_cache
+-. . -..- - / . -. - .-. -.--
+cached_retval = django_cache.get(cache_key_name)
+-. . -..- - / . -. - .-. -.--
+cached_retval
+-. . -..- - / . -. - .-. -.--
+user_function(*args, **kwargs)
+-. . -..- - / . -. - .-. -.--
+result = _
+-. . -..- - / . -. - .-. -.--
+ttl = 600
+-. . -..- - / . -. - .-. -.--
+MethodKHCache.set_key(
+                    method_full_name, cache_key_name, result, timeout=ttl
+                )
+-. . -..- - / . -. - .-. -.--
+django_cache.get(cache_key_name)
+-. . -..- - / . -. - .-. -.--
+from multistore.store import activate
+-. . -..- - / . -. - .-. -.--
+activate('fr')
+-. . -..- - / . -. - .-. -.--
+DataWHService.retrieve_store_list()
+-. . -..- - / . -. - .-. -.--
+DataWHService.retrieve_store_list('es')
+-. . -..- - / . -. - .-. -.--
+DataWHService.retrieve_store_list('fr')
+-. . -..- - / . -. - .-. -.--
+DataWHService.retrieve_store_list('pt')
+-. . -..- - / . -. - .-. -.--
+from data_wh.client import default_session
+-. . -..- - / . -. - .-. -.--
+url = 'https://data.kavehome.com/api/stock/v1/stores'
+-. . -..- - / . -. - .-. -.--
+default_session.access_token
+-. . -..- - / . -. - .-. -.--
+default_session.get(url)
+-. . -..- - / . -. - .-. -.--
+from data_wh.client import DataWHSession
+-. . -..- - / . -. - .-. -.--
+def get_user_agent():
+    """
+    User agent for the requests to the Data Warehouse.
+    The structure is arbitrary and also the data included.
+    """
+    os = platform.system()
+    python_version = platform.python_version()
+    user_agent = (
+        f"python-kavehome-data-wh-client?version=v1"
+        f"&python-version={python_version}&os={os}"
+    )
+    return user_agent
+
+-. . -..- - / . -. - .-. -.--
+import json
+import platform
+
+import aiohttp
+import logging
+import requests
+-. . -..- - / . -. - .-. -.--
+session = DataWHSession(
+    api_host=settings.DATAWAREHOUSE.get('BASE_API_URL'),
+    api_version=settings.DATAWAREHOUSE.get('API_VERSION'),
+    api_client=settings.DATAWAREHOUSE.get('CLIENT_ID'),
+    api_secret=settings.DATAWAREHOUSE.get('CLIENT_SECRET'),
+    api_scopes=settings.DATAWAREHOUSE.get('SCOPES'),
+    token_issuer_path=settings.DATAWAREHOUSE.get('API_TOKEN_ISSUER_PATH'),
+    user_agent=get_user_agent()
+)
+-. . -..- - / . -. - .-. -.--
+session.get(url)
+-. . -..- - / . -. - .-. -.--
+res = _
+-. . -..- - / . -. - .-. -.--
+res.json()

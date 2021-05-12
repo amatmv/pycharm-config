@@ -1,3 +1,22 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
+  <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoredPackages">
+      <value>
+        <list size="6">
+          <item index="0" class="java.lang.String" itemvalue="vcrpy" />
+          <item index="1" class="java.lang.String" itemvalue="Adyen" />
+          <item index="2" class="java.lang.String" itemvalue="django-extensions" />
+          <item index="3" class="java.lang.String" itemvalue="django-oscar" />
+          <item index="4" class="java.lang.String" itemvalue="Django" />
+          <item index="5" class="java.lang.String" itemvalue="django-nose" />
+        </list>
+      </value>
+    </option>
+  </inspection_tool>
+  <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+    <option name="processCode" value="true" />
+    <option name="processLiterals" value="true" />
+    <option name="processComments" value="true" />
+  </inspection_tool>
 </profile>

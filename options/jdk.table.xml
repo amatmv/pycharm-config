@@ -1,0 +1,44 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Remote Python 3.6.13 Docker Compose (web at [/home/amat/src/kavehome-pt/docker-compose.yml])" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.13" />
+      <homePath value="docker-compose://[/home/amat/src/kavehome-pt/docker-compose.yml]:web/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/249573927" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/-337502517" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/python_stubs/291647705" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="" DOCKER_ACCOUNT_NAME="Docker" DOCKER_COMPOSE_SERVICE_NAME="web" DOCKER_REMOTE_PROJECT_PATH="/opt/project">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/2082942959" remote-root="/usr/local/lib/python3.6/site-packages/_pdbpp_path_hack" />
+              <mapping local-root="$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/249573927" remote-root="/usr/local/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/-337502517" remote-root="/usr/local/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+        <dockerComposeConfigurationPaths>
+          <item value="$USER_HOME$/src/kavehome-pt/docker-compose.yml" />
+        </dockerComposeConfigurationPaths>
+        <envs>
+          <env name="DJANGO_SETTINGS_MODULE" value=" kavehome_pt.settings" />
+        </envs>
+      </additional>
+    </jdk>
+  </component>
+</application>

@@ -1,0 +1,7 @@
+<keymap version="1" name="GNOME copy" parent="Default for GNOME">
+  <action id="OptimizeImports" />
+  <action id="Tool_External Tools_Isort">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
+  <action id="UsageGrouping.FlattenModules" />
+</keymap>

@@ -1,27 +1,314 @@
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:mix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:KHO-461-seo-eliminar--category" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:KHO-977" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:bugfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:debug" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:features" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:fix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:hotfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:mix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:ref" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SECOND">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/franchise/filters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/franchise/apps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/connectif/connectif.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="184" column="8" selection-start-line="184" selection-start-column="8" selection-end-line="184" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../kavehome-pt/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor />
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/connectif/tasks.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="488">
+              <caret line="60" column="42" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/thumbnail.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="80" column="18" lean-forward="true" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/catalogue/tasks.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-510">
+              <caret line="44" column="19" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/catalogue/managers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo_api/views/basic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1824">
+              <caret line="101" column="6" selection-start-line="101" selection-start-column="6" selection-end-line="101" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/catalogue/templatetags/product_tags.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="888">
+              <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/partner/strategy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1272">
+              <caret line="62" column="37" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>'en_au'</find>
+      <find>'pl'</find>
+      <find>.set(</find>
+      <find>|currency</find>
+      <find>class=&quot;price&quot;</find>
+      <find>main-title&quot;</find>
+      <find>TODO:.*oscar</find>
+      <find>def render(</find>
+      <find>model = StockRecord</find>
+      <find>&quot;text-container</find>
+      <find>DataWHServ</find>
+      <find>gather</find>
+      <find>DATA_WH</find>
+      <find>shipping-price</find>
+      <find>by_upc</find>
+      <find>StockRecord</find>
+      <find>class GetS</find>
+      <find>Kave</find>
+      <find>Store.objects.get(code=get_store())</find>
+      <find>def render_product</find>
+      <find>if currency in settings.CURRENCY_MAP.keys()</find>
+      <find>DEFAULT_PRODUCT_CLASS_ID</find>
+      <find>self.price_currency</find>
+      <find>product_index_signal.send</find>
+      <find>pricing'</find>
+      <find>ConnectifApi</find>
+      <find>AA0115J03</find>
+      <find>def send_product_to_connectif</find>
+      <find>product_visited</find>
+      <find>delay(</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ConnectifApi</replace>
+      <replace>Status</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/templates/catalogue</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/nilo/voucher</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/nilo/offer/migrations</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/i2_extended_config</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/nilo/dashboard/offers</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/nilo/dashboard/vouchers</dir>
+      <dir>$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/-337502517/requests</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/nilo/checkout</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/nilo/static/nilo/js</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/templates/kh_content</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/templates</dir>
+      <dir>$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/-337502517/django</dir>
+      <dir>$PROJECT_DIR$/../nilo_mw</dir>
+      <dir>$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/-337502517/rest_framework</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/kavehome_pt</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/franchise/serializers</dir>
+      <dir>$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/-337502517/oscar/core</dir>
+      <dir>$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/-337502517/oscar</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/multistore/migrations</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/templates/common</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/data_wh</dir>
+      <dir>$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/249573927/asyncio</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/multistore</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/nilo/partner/migrations</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/nilo/partner</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/nilo_api/serializers</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/nilo/catalogue</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/nilo/catalogue/templatetags</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/franchise</dir>
+      <dir>$PROJECT_DIR$/../kavehome-pt/app/connectif</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo/order/views/order.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/multistore/templatetags/multistore_tags.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo/customer/utils.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo_api/serializers/checkout.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/locale/ca/LC_MESSAGES/django.po" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/.env.test" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/tests/kavehome_pt/connectif/test_serializers.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/data_wh/serializers/stock.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/Makefile" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/tests/kavehome_pt/cache/keys/test_method_cache.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/tests/conftest.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/tests/kavehome_pt/data_warehouse/test_data_wh.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/tests/kavehome_pt/nilo/test_address.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo/communication/models.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo/customer/views.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo/address/models.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo/address/forms.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo_api/serializers/order_status.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/kh_content/middleware.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/config/requirements.txt" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/config/requirements-dev.txt" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/data_wh/views/data.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/kavehome_pt/cache/keys/method.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo/catalogue/templatetags/product_tags.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/templates/catalogue/partials/product.html" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/templates/common/header.html" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/templates/base.html" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo/middleware.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo_api/urls.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo/thumbnail.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo_api/session.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/templates/catalogue/detail.html" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo_api/views/checkout.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/adyen/facade.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/kh_content/models/magazines.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/adyen/views.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo/search/elasticsearch_backend.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo_api/serializers/basket.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/data_wh/service.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo/checkout/mixins.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo/checkout/views.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo/partner/strategy.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/franchise/serializers/catalogue.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/kavehome_pt/settings.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo/partner/models.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/multistore/models.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/multistore/migrations/0033_store_price_currency.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo/partner/migrations/0033_currency.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo/catalogue/templatetags/currency_filters.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/nilo_api/serializers/product.py" />
+      <option value="$PROJECT_DIR$/../kavehome-pt/app/connectif/tasks.py" />
+    </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -39,16 +326,125 @@
           <expand>
             <path>
               <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kavehome-base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kavehome-base" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="kavehome-pt" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
               <item name="kavehome-pt" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kavehome-pt" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="connectif" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kavehome-pt" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="data_wh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kavehome-pt" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="data_wh" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kavehome-pt" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="franchise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kavehome-pt" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="franchise" type="462c0819:PsiDirectoryNode" />
+              <item name="serializers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kavehome-pt" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="multistore" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kavehome-pt" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="multistore" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kavehome-pt" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="nilo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kavehome-pt" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="nilo" type="462c0819:PsiDirectoryNode" />
+              <item name="partner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kavehome-pt" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="nilo" type="462c0819:PsiDirectoryNode" />
+              <item name="partner" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kavehome-pt" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="kavehome-pt" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="oscar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nilo_mw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Remote Python 3.6.13 Docker Compose (web at [/home/amat/src/kavehome-pt/docker-compose.yml]) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Remote Python 3.6.13 Docker Compose (web at [/home/amat/src/kavehome-pt/docker-compose.yml]) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="291647705" type="d76c9d6b:PyRemoteLibrariesNode" />
+            </path>
+            <path>
+              <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Remote Python 3.6.13 Docker Compose (web at [/home/amat/src/kavehome-pt/docker-compose.yml]) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="291647705" type="d76c9d6b:PyRemoteLibrariesNode" />
+              <item name="-337502517" type="788ab980:PyRemoteLibrariesNode$PyRemoteRootNode" />
+            </path>
+            <path>
+              <item name="kavehome-base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Remote Python 3.6.13 Docker Compose (web at [/home/amat/src/kavehome-pt/docker-compose.yml]) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="291647705" type="d76c9d6b:PyRemoteLibrariesNode" />
+              <item name="-337502517" type="788ab980:PyRemoteLibrariesNode$PyRemoteRootNode" />
+              <item name="oscar" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -56,53 +452,832 @@
       </pane>
     </panes>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1296000" />
+    <option name="totallyTimeSpent" value="520540000" />
   </component>
   <component name="ToolWindowManager">
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19009584" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1826411" />
       <window_info id="Structure" order="1" side_tool="true" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Commit" order="3" />
       <window_info id="Pull Requests" order="4" />
       <window_info id="Learn" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32814237" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" weight="0.46941045" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32925472" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3003337" />
       <window_info anchor="bottom" id="TODO" order="4" />
-      <window_info anchor="bottom" id="Problems View" order="5" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.32962137" />
+      <window_info anchor="bottom" x="1920" y="24" width="1920" height="1013" id="Debug" maximized="true" order="6" visible="true" weight="0.3192436" />
       <window_info anchor="bottom" id="Internal Method Tracing" order="7" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="File Transfer" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.516129" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info active="true" anchor="bottom" x="0" y="24" width="1920" height="1013" id="Python Console" maximized="true" order="12" type="WINDOWED" weight="0.32925472" />
       <window_info anchor="bottom" id="Flow" order="13" />
       <window_info anchor="bottom" id="TypeScript" order="14" />
-      <window_info anchor="bottom" id="Services" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="15" weight="0.32814237" />
       <window_info anchor="right" id="Database" order="0" />
       <window_info anchor="right" id="SciView" order="1" />
+      <window_info anchor="right" id="make" order="2" side_tool="true" />
     </layout>
   </component>
   <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" />
+  <component name="WindowStateProjectService">
+    <state x="468" y="129" width="800" height="671" key="#Docker" timestamp="1617274862761">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="468" y="129" width="800" height="671" key="#Docker/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1617274862761" />
+    <state x="2509" y="200" width="732" height="631" key="#Inspections" timestamp="1619426983244">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2509" y="200" width="732" height="631" key="#Inspections/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1619426983244" />
+    <state x="647" y="354" width="616" height="323" key="#Notifications" timestamp="1618394472047">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="647" y="354" width="616" height="323" key="#Notifications/0.0.1920.1038@0.0.1920.1038" timestamp="1618394472047" />
+    <state x="2734" y="421" width="282" height="189" key="#Volume_binding" timestamp="1617022747138">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2734" y="421" width="282" height="189" key="#Volume_binding/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1617022747138" />
+    <state x="455" y="172" width="1033" height="756" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618494727728">
+      <screen x="0" y="0" width="3840" height="1038" />
+    </state>
+    <state x="455" y="172" width="1033" height="756" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.3840.1038@0.0.3840.1038" timestamp="1618494727728" />
+    <state x="171" y="106" width="1084" height="832" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1618218083391" />
+    <state x="331" y="114" width="1084" height="756" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1617275019104" />
+    <state x="2555" y="300" width="738" height="430" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617263840784">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2555" y="300" width="738" height="430" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1617263840784" />
+    <state x="383" y="0" width="1134" height="1032" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1618412946444">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="383" y="0" width="1134" height="1032" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1038@0.0.1920.1038" timestamp="1618412946444" />
+    <state x="947" y="350" width="518" height="485" key="#com.intellij.tools.ToolEditorDialog" timestamp="1619687541511">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="947" y="350" width="518" height="485" key="#com.intellij.tools.ToolEditorDialog/0.0.1920.1038@0.0.1920.1038" timestamp="1619167037864" />
+    <state x="947" y="350" width="461" height="485" key="#com.intellij.tools.ToolEditorDialog/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1619687541511" />
+    <state x="2867" y="364" width="461" height="485" key="#com.intellij.tools.ToolEditorDialog/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1617967842059" />
+    <state x="321" y="30" width="1505" height="747" key="#xdebugger.evaluate" timestamp="1620831073941">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="468" y="375" width="953" height="629" key="#xdebugger.evaluate/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1620312179432" />
+    <state x="490" y="143" width="1329" height="695" key="#xdebugger.evaluate/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620737715818" />
+    <state x="321" y="30" width="1505" height="747" key="#xdebugger.evaluate/0.0.1920.1038@0.0.1920.1038" timestamp="1620831073941" />
+    <state x="0" y="290" width="1920" height="747" key="#xdebugger.evaluate/0.0.3840.1038@0.0.3840.1038" timestamp="1620642153024" />
+    <state x="679" y="369" width="1241" height="669" key="#xdebugger.evaluate/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1619701109453" />
+    <state x="321" y="30" width="1346" height="1008" key="#xdebugger.evaluate/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1619104256311" />
+    <state width="398" height="74" key="DebuggerActiveHint" timestamp="1620829021076">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1363" height="391" key="DebuggerActiveHint/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1619608702882" />
+    <state width="598" height="94" key="DebuggerActiveHint/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620732700533" />
+    <state width="398" height="74" key="DebuggerActiveHint/0.0.1920.1038@0.0.1920.1038" timestamp="1620829021076" />
+    <state width="1353" height="461" key="DebuggerActiveHint/0.0.3840.1038@0.0.3840.1038" timestamp="1620297964444" />
+    <state width="667" height="172" key="DebuggerActiveHint/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1619681383972" />
+    <state width="1349" height="448" key="DebuggerActiveHint/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1619103559914" />
+    <state x="100" y="96" width="1720" height="805" key="DiffContextDialog" timestamp="1620828209388">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="100" y="96" width="1720" height="805" key="DiffContextDialog/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1619778951147" />
+    <state x="2020" y="100" width="1720" height="838" key="DiffContextDialog/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620634205546" />
+    <state x="100" y="96" width="1720" height="805" key="DiffContextDialog/0.0.1920.1038@0.0.1920.1038" timestamp="1620828209388" />
+    <state x="0" y="96" width="1920" height="806" key="DiffContextDialog/0.0.3840.1038@0.0.3840.1038" timestamp="1620718987301" />
+    <state x="100" y="96" width="1720" height="805" key="DiffContextDialog/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1619704132669" />
+    <state x="2020" y="100" width="1720" height="837" key="DiffContextDialog/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1619100699032" />
+    <state x="2487" y="349" width="282" height="243" key="DockerComposeFileDialog" timestamp="1617274877138">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="567" y="335" width="282" height="243" key="DockerComposeFileDialog/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1617013696836" />
+    <state x="2487" y="349" width="282" height="243" key="DockerComposeFileDialog/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1617274877138" />
+    <state x="2080" y="265" width="271" height="513" key="EnvironmentVariablesDialog" timestamp="1618494628250">
+      <screen x="0" y="0" width="3840" height="1038" />
+    </state>
+    <state x="2080" y="265" key="EnvironmentVariablesDialog/0.0.3840.1038@0.0.3840.1038" timestamp="1618494628250" />
+    <state x="1040" y="265" width="271" height="513" key="EnvironmentVariablesDialog/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1617018954665" />
+    <state x="2960" y="276" width="271" height="513" key="EnvironmentVariablesDialog/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1617095690246" />
+    <state x="491" y="215" width="474" height="478" key="FileChooserDialogImpl" timestamp="1618828606714">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="491" y="215" width="429" height="478" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1618828606714" />
+    <state x="2411" y="224" width="474" height="478" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1617967565921" />
+    <state x="0" y="0" width="1910" height="1032" key="FileDocumentManager.FileCacheConflict" timestamp="1618217633769">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="0" y="0" width="1910" height="1032" key="FileDocumentManager.FileCacheConflict/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1618217633769" />
+    <state x="2218" y="0" width="1314" height="1038" key="FileDocumentManager.FileCacheConflict/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1617274554233" />
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom" timestamp="1620831143683">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1878" height="238" key="GridCell.Tab.0.bottom/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1620312461069" />
+    <state width="1878" height="343" key="GridCell.Tab.0.bottom/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620741354713" />
+    <state width="1878" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1038@0.0.1920.1038" timestamp="1620831143683" />
+    <state width="1878" height="232" key="GridCell.Tab.0.bottom/0.0.3840.1038@0.0.3840.1038" timestamp="1620659993345" />
+    <state width="1878" height="209" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1619711013171" />
+    <state width="939" height="394" key="GridCell.Tab.0.bottom/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1619104431700" />
+    <state width="1878" height="259" key="GridCell.Tab.0.center" timestamp="1620831143682">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1878" height="238" key="GridCell.Tab.0.center/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1620312461068" />
+    <state width="1878" height="343" key="GridCell.Tab.0.center/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620741354712" />
+    <state width="1878" height="259" key="GridCell.Tab.0.center/0.0.1920.1038@0.0.1920.1038" timestamp="1620831143682" />
+    <state width="1878" height="232" key="GridCell.Tab.0.center/0.0.3840.1038@0.0.3840.1038" timestamp="1620659993344" />
+    <state width="1878" height="209" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1619711013171" />
+    <state width="939" height="394" key="GridCell.Tab.0.center/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1619104431700" />
+    <state width="1878" height="259" key="GridCell.Tab.0.left" timestamp="1620831143682">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1878" height="238" key="GridCell.Tab.0.left/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1620312461068" />
+    <state width="1878" height="343" key="GridCell.Tab.0.left/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620741354711" />
+    <state width="1878" height="259" key="GridCell.Tab.0.left/0.0.1920.1038@0.0.1920.1038" timestamp="1620831143682" />
+    <state width="1878" height="232" key="GridCell.Tab.0.left/0.0.3840.1038@0.0.3840.1038" timestamp="1620659993343" />
+    <state width="1878" height="209" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1619711013170" />
+    <state width="939" height="394" key="GridCell.Tab.0.left/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1619104431700" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right" timestamp="1620831143683">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1878" height="238" key="GridCell.Tab.0.right/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1620312461068" />
+    <state width="1878" height="343" key="GridCell.Tab.0.right/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620741354712" />
+    <state width="1878" height="259" key="GridCell.Tab.0.right/0.0.1920.1038@0.0.1920.1038" timestamp="1620831143683" />
+    <state width="1878" height="232" key="GridCell.Tab.0.right/0.0.3840.1038@0.0.3840.1038" timestamp="1620659993344" />
+    <state width="1878" height="209" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1619711013171" />
+    <state width="939" height="394" key="GridCell.Tab.0.right/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1619104431700" />
+    <state width="1878" height="259" key="GridCell.Tab.1.bottom" timestamp="1620830686129">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1878" height="238" key="GridCell.Tab.1.bottom/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1620312461070" />
+    <state width="1878" height="343" key="GridCell.Tab.1.bottom/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620741354714" />
+    <state width="1878" height="259" key="GridCell.Tab.1.bottom/0.0.1920.1038@0.0.1920.1038" timestamp="1620830686129" />
+    <state width="1878" height="232" key="GridCell.Tab.1.bottom/0.0.3840.1038@0.0.3840.1038" timestamp="1620659993347" />
+    <state width="1878" height="459" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1619711010305" />
+    <state width="1878" height="394" key="GridCell.Tab.1.bottom/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1619104731575" />
+    <state width="1878" height="259" key="GridCell.Tab.1.center" timestamp="1620830686128">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1878" height="238" key="GridCell.Tab.1.center/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1620312461069" />
+    <state width="1878" height="343" key="GridCell.Tab.1.center/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620741354713" />
+    <state width="1878" height="259" key="GridCell.Tab.1.center/0.0.1920.1038@0.0.1920.1038" timestamp="1620830686128" />
+    <state width="1878" height="232" key="GridCell.Tab.1.center/0.0.3840.1038@0.0.3840.1038" timestamp="1620659993346" />
+    <state width="1878" height="459" key="GridCell.Tab.1.center/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1619711010304" />
+    <state width="1878" height="394" key="GridCell.Tab.1.center/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1619104731574" />
+    <state width="1878" height="259" key="GridCell.Tab.1.left" timestamp="1620830686127">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1878" height="238" key="GridCell.Tab.1.left/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1620312461069" />
+    <state width="1878" height="343" key="GridCell.Tab.1.left/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620741354713" />
+    <state width="1878" height="259" key="GridCell.Tab.1.left/0.0.1920.1038@0.0.1920.1038" timestamp="1620830686127" />
+    <state width="1878" height="232" key="GridCell.Tab.1.left/0.0.3840.1038@0.0.3840.1038" timestamp="1620659993345" />
+    <state width="1878" height="459" key="GridCell.Tab.1.left/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1619711010304" />
+    <state width="1878" height="394" key="GridCell.Tab.1.left/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1619104731574" />
+    <state width="1878" height="259" key="GridCell.Tab.1.right" timestamp="1620830686128">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="1878" height="238" key="GridCell.Tab.1.right/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1620312461069" />
+    <state width="1878" height="343" key="GridCell.Tab.1.right/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620741354713" />
+    <state width="1878" height="259" key="GridCell.Tab.1.right/0.0.1920.1038@0.0.1920.1038" timestamp="1620830686128" />
+    <state width="1878" height="232" key="GridCell.Tab.1.right/0.0.3840.1038@0.0.3840.1038" timestamp="1620659993346" />
+    <state width="1878" height="459" key="GridCell.Tab.1.right/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1619711010305" />
+    <state width="1878" height="394" key="GridCell.Tab.1.right/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1619104731574" />
+    <state x="0" y="0" width="1920" height="1038" key="MergeDialog" timestamp="1620718986702">
+      <screen x="0" y="0" width="3840" height="1038" />
+    </state>
+    <state x="5" y="1" key="MergeDialog/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1619609753069" />
+    <state x="5" y="1" width="1915" height="927" key="MergeDialog/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1619440678720" />
+    <state x="182" y="65" key="MergeDialog/0.0.1920.1038@0.0.1920.1038" timestamp="1619170360887" />
+    <state x="0" y="0" width="1920" height="1038" key="MergeDialog/0.0.3840.1038@0.0.3840.1038" timestamp="1620718986702" />
+    <state x="3" y="0" width="1910" height="1038" key="MergeDialog/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1619689899884" />
+    <state x="2102" y="68" width="1536" height="808" key="MergeDialog/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1619105132055" />
+    <state x="1920" y="270" width="715" height="465" key="MultipleFileMergeDialog" timestamp="1620718986708">
+      <screen x="0" y="0" width="3840" height="1038" />
+    </state>
+    <state x="597" y="270" key="MultipleFileMergeDialog/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1619609753077" />
+    <state x="2517" y="281" width="715" height="465" key="MultipleFileMergeDialog/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1619440678724" />
+    <state x="597" y="270" width="846" height="465" key="MultipleFileMergeDialog/0.0.1920.1038@0.0.1920.1038" timestamp="1620228011375" />
+    <state x="1920" y="270" width="715" height="465" key="MultipleFileMergeDialog/0.0.3840.1038@0.0.3840.1038" timestamp="1620718986708" />
+    <state x="597" y="270" width="715" height="465" key="MultipleFileMergeDialog/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1619689899889" />
+    <state x="2517" y="281" width="715" height="468" key="MultipleFileMergeDialog/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1619105132061" />
+    <state x="1920" y="166" width="1920" height="764" key="SettingsEditor" timestamp="1620040202976">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1920" y="166" key="SettingsEditor/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620040202976" />
+    <state x="0" y="160" key="SettingsEditor/0.0.1920.1038@0.0.1920.1038" timestamp="1619167038637" />
+    <state x="0" y="19" width="1920" height="764" key="SettingsEditor/0.0.3840.1038@0.0.3840.1038" timestamp="1618494678843" />
+    <state x="685" y="158" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1027@0.0.1920.1027" timestamp="1617010456964" />
+    <state x="685" y="160" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1619687542161" />
+    <state x="2195" y="230" width="992" height="764" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1617967843162" />
+    <state width="960" height="498" key="XDebugger.FullValuePopup" timestamp="1620389660651">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state width="960" height="498" key="XDebugger.FullValuePopup/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1620312113008" />
+    <state width="960" height="498" key="XDebugger.FullValuePopup/0.0.1920.1038@0.0.1920.1038" timestamp="1620389660651" />
+    <state width="1920" height="498" key="XDebugger.FullValuePopup/0.0.3840.1038@0.0.3840.1038" timestamp="1618491802704" />
+    <state width="960" height="498" key="XDebugger.FullValuePopup/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1619081402200" />
+    <state width="960" height="518" key="XDebugger.FullValuePopup/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1619078682808" />
+    <state x="644" y="214" width="1110" height="578" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1620214233089">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="644" y="214" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1920.1038@0.0.1920.1038" timestamp="1620214233089" />
+    <state x="644" y="214" width="1110" height="578" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1618313164080" />
+    <state x="2020" y="100" width="1720" height="837" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1619526546487">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2020" y="100" width="1720" height="837" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1619526546487" />
+    <state x="522" y="119" width="866" height="793" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1619700928721">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="2442" y="124" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1619528905857" />
+    <state x="522" y="119" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1619700928721" />
+    <state x="522" y="119" width="866" height="793" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1618314457029" />
+    <state x="2304" y="453" width="373" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620732931761">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="384" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1619778939495" />
+    <state x="2304" y="453" width="373" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620732931761" />
+    <state x="768" y="435" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.3840.1038@0.0.3840.1038" timestamp="1618483423061" />
+    <state x="2893" y="425" width="405" height="283" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1617095498643">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="973" y="408" width="405" height="227" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1617018655865" />
+    <state x="2893" y="425" width="405" height="283" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1617095498643" />
+    <state x="673" y="109" width="1146" height="768" key="find.popup" timestamp="1620855860318">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="592" y="97" width="1146" height="768" key="find.popup/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1620312839425" />
+    <state x="268" y="104" width="1652" height="800" key="find.popup/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620745627867" />
+    <state x="673" y="109" width="1146" height="768" key="find.popup/0.0.1920.1038@0.0.1920.1038" timestamp="1620855860318" />
+    <state x="2468" y="77" width="1182" height="768" key="find.popup/0.0.3840.1038@0.0.3840.1038" timestamp="1620719269041" />
+    <state x="674" y="108" width="1146" height="759" key="find.popup/1920.0.1920.1080/0.0.1920.1027@0.0.1920.1027" timestamp="1617011409706" />
+    <state x="2594" y="114" width="1146" height="798" key="find.popup/1920.0.1920.1080/0.0.1920.1027@1920.0.1920.1080" timestamp="1617012863782" />
+    <state x="674" y="110" width="1146" height="767" key="find.popup/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1619710508712" />
+    <state x="2593" y="114" width="1146" height="799" key="find.popup/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1619102872497" />
+    <state x="623" y="216" width="672" height="160" key="search.everywhere.popup" timestamp="1620831993143">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="623" y="216" width="672" height="160" key="search.everywhere.popup/0.0.1920.1038/1920.0.1920.1080@0.0.1920.1038" timestamp="1620312835042" />
+    <state x="2543" y="225" width="672" height="167" key="search.everywhere.popup/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1620740054705" />
+    <state x="623" y="216" width="672" height="160" key="search.everywhere.popup/0.0.1920.1038@0.0.1920.1038" timestamp="1620831993143" />
+    <state x="1246" y="216" width="1344" height="653" key="search.everywhere.popup/0.0.3840.1038@0.0.3840.1038" timestamp="1620719054113" />
+    <state x="623" y="214" width="672" height="645" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1027@0.0.1920.1027" timestamp="1617010450696" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1027@1920.0.1920.1080" timestamp="1617007632860" />
+    <state x="623" y="216" width="672" height="653" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1038@0.0.1920.1038" timestamp="1619710497217" />
+    <state x="2543" y="225" width="672" height="679" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1619105082534" />
+    <state x="685" y="344" width="540" height="166" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1620817125341">
+      <screen x="0" y="0" width="1920" height="1038" />
+    </state>
+    <state x="2605" y="358" width="540" height="166" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1038/1920.0.1920.1080@1920.0.1920.1080" timestamp="1619526103047" />
+    <state x="685" y="344" width="540" height="166" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1038@0.0.1920.1038" timestamp="1620817125341" />
+    <state x="2605" y="358" width="540" height="314" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1920.0.1920.1080/0.0.1920.1038@1920.0.1920.1080" timestamp="1617263968644" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>self.validated_data</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>product.stockrecords.filter(store__code=store_code)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stock_record_instance.price_currency</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stockrecord.get(
+                'price_currency', stock_record_instance.price_currency
+            )</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stockrecord.get(
+                'price_currency')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>stockrecord.price_currency</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.store</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.store.price_currency.code</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>'asap' in message</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>ship = get_model('order', 'Shipping').objects.filter(status='Delivered').first()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>get_model('order', 'Shipping').objects.filter(status='Delivered').count()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>serialized_args.encode()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>hasattr(response, 'render')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>iri_to_uri(request.build_absolute_uri()).encode('ascii')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>url</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>url.hexdigest()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>_i18n_cache_key_suffix(request, cache_key)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>request.build_absolute_uri()</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>caches[self.cache_alias]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SECOND">
-          <first_editor />
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo_api/serializers/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../kavehome-pt/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/-337502517/rest_framework/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="240" selection-start-line="240" selection-end-line="240" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/-337502517/rest_framework/mixins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/-337502517/oscar/apps/partner/abstract_models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="109" column="54" selection-start-line="109" selection-start-column="46" selection-end-line="109" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/-337502517/oscar/core/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="165" column="52" lean-forward="true" selection-start-line="165" selection-start-column="52" selection-end-line="165" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/-337502517/django/template/library.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="195" column="30" lean-forward="true" selection-start-line="195" selection-start-column="30" selection-end-line="195" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/basket/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="199" column="47" lean-forward="true" selection-start-line="199" selection-start-column="47" selection-end-line="199" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/-337502517/oscar/apps/basket/abstract_models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="211" column="17" selection-start-line="211" selection-start-column="17" selection-end-line="211" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/checkout/mixins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="349" selection-start-line="349" selection-end-line="349" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/-337502517/django/db/models/deletion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/multistore/migrations/0031_store_price_currency.py" />
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/multistore/migrations/0032_store_language_enabled_pl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/partner/migrations/0032_auto_20201015_1122.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/multistore/migrations/0031_auto_20210407_0844.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/multistore/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/templates/common/mini-cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="461" column="54" selection-start-line="461" selection-start-column="54" selection-end-line="461" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/templates/catalogue/partials/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="114" column="37" selection-start-line="114" selection-start-column="37" selection-end-line="114" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/connectif/receivers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="27" column="31" lean-forward="true" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="283" column="28" lean-forward="true" selection-start-line="283" selection-start-column="28" selection-end-line="283" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/249573927/asyncio/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="567" column="49" lean-forward="true" selection-start-line="567" selection-start-column="49" selection-end-line="567" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/kavehome_pt/cache/helpers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="45" column="45" lean-forward="true" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/data_wh/service.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="166" column="28" lean-forward="true" selection-start-line="166" selection-start-column="28" selection-end-line="166" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/data_wh/views/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="59" column="54" selection-start-line="59" selection-start-column="54" selection-end-line="59" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/multistore/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="46" column="65" selection-start-line="46" selection-start-column="65" selection-end-line="46" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/templates/checkout/shipping_method.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="100" column="55" selection-start-line="100" selection-start-column="47" selection-end-line="100" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/multistore/migrations/0033_store_price_currency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/partner/migrations/0033_currency.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="137" column="39" lean-forward="true" selection-start-line="137" selection-start-column="39" selection-end-line="137" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo_api/views/mixin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/catalogue/templatetags/purchase_info_tags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/-337502517/django/db/models/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="581" selection-start-line="581" selection-end-line="581" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cache/JetBrains/PyCharm2020.3/remote_sources/291647705/-337502517/oscar/apps/partner/strategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="130" column="40" lean-forward="true" selection-start-line="130" selection-start-column="40" selection-end-line="130" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo_api/serializers/product.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="808" selection-start-line="808" selection-end-line="808" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/partner/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="242" selection-start-line="242" selection-end-line="242" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/search/search_indexes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="264" selection-start-line="264" selection-end-line="264" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/search/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/catalogue/receivers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="212" column="57" lean-forward="true" selection-start-line="212" selection-start-column="57" selection-end-line="212" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/catalogue/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="624" selection-start-line="624" selection-end-line="624" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/catalogue/templatetags/currency_filters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/franchise/serializers/catalogue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="50" column="67" selection-start-line="50" selection-start-column="67" selection-end-line="50" selection-end-column="67" />
+          <folding>
+            <element signature="e#2731#3081#0" />
+            <element signature="e#2774#2982#0" />
+            <element signature="e#3000#3062#0" />
+            <element signature="e#3162#4514#0" />
+            <element signature="e#3669#4427#0" />
+            <element signature="e#4068#4224#0" />
+            <element signature="e#4520#4563#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/franchise/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/franchise/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1560">
+          <caret line="304" selection-start-line="304" selection-end-line="304" />
+          <folding>
+            <element signature="e#1572#1884#0" />
+            <element signature="e#1955#2705#0" />
+            <element signature="e#2708#2828#0" />
+            <element signature="e#3343#4258#0" />
+            <element signature="e#3829#4258#0" />
+            <element signature="e#3948#4154#0" />
+            <element signature="e#4037#4154#0" />
+            <element signature="e#4344#4768#0" />
+            <element signature="e#4534#4641#0" />
+            <element signature="e#4679#4768#0" />
+            <element signature="e#4798#5104#0" />
+            <element signature="e#5107#5227#0" />
+            <element signature="e#5522#6123#0" />
+            <element signature="e#5965#6009#0" />
+            <element signature="e#6047#6123#0" />
+            <element signature="e#6184#6407#0" />
+            <element signature="e#6459#6563#0" />
+            <element signature="e#6629#7790#0" />
+            <element signature="e#6854#7260#0" />
+            <element signature="e#6932#7168#0" />
+            <element signature="e#7308#7790#0" />
+            <element signature="e#7530#7767#0" />
+            <element signature="e#7551#7656#0" />
+            <element signature="e#7853#8043#0" />
+            <element signature="e#8046#8166#0" />
+            <element signature="e#8466#8626#0" />
+            <element signature="e#8685#8845#0" />
+            <element signature="e#8848#8968#0" />
+            <element signature="e#9265#10154#0" />
+            <element signature="e#9265#9367#1" />
+            <element signature="e#9910#9954#0" />
+            <element signature="e#9992#10154#0" />
+            <element signature="e#10240#10436#0" />
+            <element signature="e#10497#12505#0" />
+            <element signature="e#10497#10555#1" />
+            <element signature="e#10987#11261#0" />
+            <element signature="e#11078#11176#0" />
+            <element signature="e#11299#11673#0" />
+            <element signature="e#11376#11626#0" />
+            <element signature="e#11721#12294#0" />
+            <element signature="e#11972#12271#0" />
+            <element signature="e#11993#12160#0" />
+            <element signature="e#12337#12505#0" />
+            <element signature="e#12547#12698#0" />
+            <element signature="e#12744#12895#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/franchise/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo_api/views/basic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1824">
+          <caret line="101" column="6" selection-start-line="101" selection-start-column="6" selection-end-line="101" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/catalogue/templatetags/product_tags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="44" column="24" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/partner/strategy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1272">
+          <caret line="62" column="37" selection-start-line="62" selection-start-column="37" selection-end-line="62" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/franchise/filters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/catalogue/managers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/connectif/connectif.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="184" column="8" selection-start-line="184" selection-start-column="8" selection-end-line="184" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/catalogue/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="44" column="19" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/nilo/thumbnail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="80" column="18" lean-forward="true" selection-start-line="80" selection-start-column="18" selection-end-line="80" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../kavehome-pt/app/connectif/tasks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="60" column="42" selection-start-line="60" selection-start-column="42" selection-end-line="60" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
